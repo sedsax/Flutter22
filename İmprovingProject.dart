@@ -13,7 +13,9 @@ To accomplish these tasks, see the following recipes:
 Fade in images with a placeholder -> https://docs.flutter.dev/cookbook/images/fading-in-images
 Work with cached images -> https://docs.flutter.dev/cookbook/images/cached-images
 */
-
+//Burda verileri Student sınıfından aldım, ListTile(leading: CircleAvatar(backgroundImage: NetworkImage("..."),)) ile profil fotoları ekledim  
+// fakat hepsine aynı foto eklendi. Her bir öğrenci için farklı profil fotosu eklemeye çalışacağım. Aslında bu da bir öğrenci verisi
+// bu yüzden öğrencinin profil fotosunu da Student sınıfında tutabilirim. Flutter' da image veri olarak nasıl tutuuyor ona bakalım
 import 'package:firstproject/models/students.dart';
 import 'package:flutter/material.dart';
 
