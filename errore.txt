@@ -1,0 +1,49 @@
+// Student sınıfında String olarak imagee verisi tuttum ama Student sınıfı yeni tanımladığım bu veriyi tanımadı ve hala 4 veri olarak gösterdi
+// imagee verisini tanımayınca ben de resim url lerini status ile tanımladım, sonra da böyle hatalar verdi.
+
+Launching lib\main.dart on Redmi 5 Plus in debug mode...
+Running Gradle task 'assembleDebug'...
+lib/main.dart:13:11: Error: Too few positional arguments: 5 required, 4 given.
+  [Student("Ebrar", "Karakurt", 100, "https://picsum.photos/250?image=9"),
+          ^
+lib/models/students.dart:8:3: Context: Found this candidate, but the arguments don't match.
+  Student(this.firstName, this.lastName, this.grade, this.status, this.imagee);
+  ^^^^^^^
+lib/main.dart:14:12: Error: Too few positional arguments: 5 required, 4 given.
+    Student("Elif", "Yaman", 45, "https://docs.flutter.dev/assets/images/dash/dash-fainting.gif"),
+           ^
+lib/models/students.dart:8:3: Context: Found this candidate, but the arguments don't match.
+  Student(this.firstName, this.lastName, this.grade, this.status, this.imagee);
+  ^^^^^^^
+lib/main.dart:15:12: Error: Too few positional arguments: 5 required, 4 given.
+    Student("Ahmet", "Kaplan", 55, "https://picsum.photos/250?image=9"),
+           ^
+lib/models/students.dart:8:3: Context: Found this candidate, but the arguments don't match.
+  Student(this.firstName, this.lastName, this.grade, this.status, this.imagee);
+  ^^^^^^^
+lib/main.dart:16:12: Error: Too few positional arguments: 5 required, 4 given.
+    Student("Hakan", "Aslan", 90, "https://docs.flutter.dev/assets/images/dash/dash-fainting.gif")
+           ^
+lib/models/students.dart:8:3: Context: Found this candidate, but the arguments don't match.
+  Student(this.firstName, this.lastName, this.grade, this.status, this.imagee);
+  ^^^^^^^
+
+
+FAILURE: Build failed with an exception.
+
+* Where:
+Script 'C:\src\flutter\packages\flutter_tools\gradle\flutter.gradle' line: 1159
+
+* What went wrong:
+Execution failed for task ':app:compileFlutterBuildDebug'.
+> Process 'command 'C:\src\flutter\bin\flutter.bat'' finished with non-zero exit value 1
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+BU�LD FAILED in 10s
+Exception: Gradle task assembleDebug failed with exit code 1
