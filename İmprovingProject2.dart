@@ -1,4 +1,5 @@
 // Student sınıfında yaptığım değişiklikleri algılamadığı için Student2 sınıfı oluşturdum ve oradaki verileri kullandım
+// Uygulamanın ekran görüntüsü şöyle -> https://github.com/sedsax/Flutter22/blob/main/images/Screenshot_2022-10-19-17-27-26-285_com.example.firstproject.jpg
 import 'package:firstproject/models/students.dart';
 import 'package:firstproject/models/students2.dart';
 import 'package:flutter/material.dart';
