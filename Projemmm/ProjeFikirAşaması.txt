@@ -1,0 +1,103 @@
+Adı : Neymiş?
+Özet: Şimdilik aşağıdaki tüm fikirlerim not olarak kalacak. İlk olarak wordle tipinde bir uygulama yapayım. Bunun kullanıcısı falan yok. Sadece kelimeyi buluyorsun. 
+Bir nevi kullanıcıdan bağımsız diyebiliriz. Elinize aldığınız gazetedeki bulmaca sayfası gibi düşünün, kelimeyi bulup kapatıyorsunuz. 
+
+Yazılımcı ve girişimci olarak projenin 
+konusunun, tasarımının, işleyişinin belirlenmesi.
+
+TDK’ nin kelime ve anlamlarının olduğu 
+bir API sağladığını öğrendim. Buradan
+ alacağım verileri kullanarak bir kelime
+ bulma oyunu yapmak istiyorum. 
+
+=> Wordle gibi bir kelime oyunu ?
+=> Karışık harflerle kelimeyi bulma: Anagram ?
+
+*Hedef kelimenin eş anlamlarının
+ tanımını ipucu olarak vereceğim. 
+İpucunu kullanmanın bir bedeli olmalı. 
+Yani doğrudan kelimeyi bulan daha 
+yüksek puan almalı. 
+
+*Oyunun bir amacı olmalı, kullanıcıyı 
+hırslandırmalı, bir nevi kendine bağlamalı.
+Klasik bir skor tablosu eklenebilir elbette.
+Hatta tüm kullanıcılar arasında skor
+tablosu da bir sayfada görüntülenebilir. 
+Fakat gün içerisinde durup dururken bir 
+kullanıcı niye bu uygulamayı açmak istesin?
+
+Tasarımı dedektif konseptinde yapmak 
+istiyorum. Böylece bulmaca daha da cazip 
+görünecek ve meraklı bulmaca severleri 
+kendine çekecek. Animasyonlar da çok
+önemli, hatta konseptin en önemli parçası.
+Mesela ipucu eski bir zarf görünümünde 
+olacak ve kullanmak için tıklandığında sayfayı 
+kaplayacak şekilde ortaya gelip açılıp içindeki 
+anlamın yazılı olduğu kart çıkacak.
+
+Hedef kelime bulununca altında anlamının 
+yazdığı bir metin kutusu açılacak. Kelimeyi 
+istersek kaydedebileceğiz, bunun için “sözlük”
+sayfası oluşturulacak
+
+Kelimeler rasgele seçilecek. 
+Fakat başka bir özellik olarak bölüm bölüm 
+görevler de olsa çok güzel olur.
+
+Hatta kullanıcıya tema seçme imkanı da
+ekleyebilirim. Özellikle bulmaca gibi 
+odaklanmanın önemli olduğu işlerde istenilen
+ melodi ve görüntü etkili olabilir: gökyüzü, 
+gün batımı, su-rüzgar-kuş sesi, gece yarısı, 
+deniz kenarındaki odunların yanma sesi... 
+
+**En önemli nokta; bahsettiğim, yapmayı 
+istediğim kelime etapları yani her bir bölüm 
+nasıl olacak? Kelimeler arasında nasıl bir ilişki 
+kurabilirim. Normal oyun düzeninde eş anlamlı
+kelimeden faydalandım. Peki burda? Bir fark 
+olmalı! Başka bir konsept, başka bir ilişki?...
+Mesela bir hikaye olsa, gerçekten dedektif 
+havası katabilir. Ancak elimde veri yok. Veya 
+dizi ya da filmlerden alıntılar yapıp o alıntının 
+ima ettiği kelimeyi bulmaya çalışabiliriz. Veya 
+karakterleri yansıtan bir şeyler, şarkı sözleri: 
+
+*Kelimelerin birbirleriyle bir şekilde ilişki 
+kurmalarını sağlamalıyım. Böylece ona göre 
+bir oyun düzeni tasarlayabilirim. 
+Acaba TDK den rasgele seçilen ve ilk olarak
+anlamı gelen kelimeyi bulduktan sonra, o 
+kelimeyi bir arama motoruna ya da başka 
+bir siteye gönderip ilişkil olduğu kelime 
+ya da kelime gruplarını çekebilir miyim????
+
+Bir dakika! API yoksa, kullanıcı oyunu 
+oynadıkça kendi APIsini oluştursun. 
+Yani o şekilde veriler elde etmeye
+çalışayım. Bunu yapabilir miyim? 
+
+***Belki de hedef kelimeyi uzatabildiğim 
+kadar uzatmalıyım. 2. ya da 5. kelime
+Hedef kelime olmamalı. Ulaşılması zor 
+olmalı ve kullanıcılar ulaşmak istemeli.
+
+***Veri olarak uygulamanın erişebildiği her 
+şeyi kullanabiliriz. Mesela o gün! Saat, tarih, 
+kullanıcı adı. Tabu oynarken etrafımıza bakıp
+görebildiğimiz ilişkili kelimeleri örnek veririz.
+
+****Neden her bir etabı bağlantılı düşünmek 
+varken ayrı ayrı konsept düşünüyorum ki!
+İlk etap evet/hayır bölümü olsun. Burda biraz 
+bilgi toplayalım. Daha sonraki her bir etap, bir
+önceki etaptan edinilen bilgilerin kullanılmasıyla 
+ilerlesin. 
+     ** Ya da, ilk etap bir senaryo olsun. Ben bir hikaye yazayım ve onunla ilgili kelime sorayım. Bi dakka! Hatta kullanıcılar da kendi sayfasında kendi 
+     senaryolarını (kısa) paylaşıp kelimeyi girip oyun oluşturabilir. Bu oyunlar (etaplar) diğer kullanıcılar tarafında oynanıp puanlanabilir. Hem yazar 
+     hem oyuncu olacaklar. 
+
+**Kullanıcıların senaryoyla bulunmasını istedikleri kelimeyi ekleme sayfasının adı ne olsun? “Kelime Ekle”, “Bulmaca Ekle”, “Etap Oluştur” sanki bu iyi gibi. 
+“Muggle” gibi başlı başına bir terim de oluşturabiliriz. 
