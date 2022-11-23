@@ -19,4 +19,26 @@ https://github.com/jliszka/wordle //----  his Wordle-solving code
 
 
 23.11.2022 // Çarşamba
+https://www.youtube.com/watch?v=A9kLIbn3nPM&ab_channel=FlutterwithDraig
 https://github.com/flutterwithdraig/FlutterWordle //----- bu kaynağı referans alarak diğer dökümanlar ile adım adım ilerliyorum.
+
+//21:01
+https://github.com/flutterwithdraig/FlutterWordle.git //----- Bu kaynak da birçok özelliği ayrı ayrı anlatarak tamamlıyor uygulamayı. 
+//mesela bu seri sonunda öğreneceklerim:
+/*
+https://github.com/Kerandon/wordle-clone/tree/master/lib
+In this series, you will learn how to build a wordle clone with FLUTTER from scratch, step-by-step. These videos will cover a heap of core concepts using practical examples, including:
+
+*GridView
+*State Management
+*Game Logic
+*Light & Dark Themes
+*Save & Retrieve Data
+*Settings Menu
+*Animations
+*Charts
+*Pop Up Boxes
+*And more…!
+*/
+
+
