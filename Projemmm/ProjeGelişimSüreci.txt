@@ -1,0 +1,47 @@
+https://www.figma.com/file/7ydVUQheTv7MndDuBpT8HK/Untitled?node-id=0%3A1&t=dH5Mp8wdWHbSiZaC-1
+
+30.11.2022//çarşamba//14:15
+
+Az önce wordle oynadım. ilk kelimede
+bugünün kelimesini buldum. Ve bana 
+“Dahisin!” diye mesaj gösterdi. Dahi mi?
+Bu sadece bir tahmindi. Yani ilk kelimede
+bulmak dahilik değil, aynı şekilde hiçbir harfin 
+çıkmaması da aptallık değil. Uzun lafın kısası
+eğer becerebilirsem algortimayı değiştirmek
+istiyorum. Çalışmasını istediğim sistem şu:
+ilk kelime hiçbir zaman oyuncunun seviyesini
+etkilemeyecek. Hatta belki ikinci kelime de. Yani
+wordleda başarılı olmanın tanımı: o günün rasgele
+seçilen kelimesini en az denemede bulabilmek
+değil mi? 6 tane deneme hakkınız var ve en az
+denemede bulmanız isteniyor.  Benim oyunumdaki
+başarılı olma şartı ise: süreç. Yani izlediğiniz adımlar.
+İlk kelime tamamen şans fakat orada bile puanlama
+yapabiliriz. Mesela KALEM kelimesini denediniz. Bu
+kelimenin harfleri birbirinden farklı. Eğer bu kelime
+çıkmadıysa, hiçbir harfi de çıkmadıysa sizin yapabileceğiniz
+bir şey yok. Ancak ilk kelimeyi KEMER olarak girerseniz
+burada E harfi 2 tane ve kelimede E harfi yoksa 1 harf sorma
+hakkınızı boşa harcamış olacaksınız ki bu, oyunun çalışmasına
+göre mantıklı değil. Tam tersi keliemede gerçekten 2 tane E
+olabilirdi de. Fakat bu ilk kelime olduğu için ve günün
+kelimesi hakkında hiçbir şey bilmediğimiz için, 5 harf
+hakkımızın 5 ini de kullanmamız gerekir. Bunu şu an için 
+örnek olsun diye anlık açıkladım. Oyunun başarı stratejisini
+daha detaylı, daha gerçekçi bir şekilde düzenlemek istiyorum.
+Bu oyundaki dahilik, kafadan atılan bir kelimenin denk gelmesi
+ile değil, adım adım sonuca ulaşırken kullanılan taktiklere göre
+belirlenmeli. 
+Hatta şu an aklıma geldi (gerçi yukardakiler de şu an aklıma gelmişt :)),
+oyuncunun günlük kelime oyunu sonrası kullandığı stratejiyi değerlendirebiliriz. 
+Hep aynı puanı mı alıyor, gelişigüzel mi oynuyor...
+
+//14:43
+Peki şimdi de aklıma ünlü ve ünsüz harf takıldı. 2 ünlü 3 ünsüz harf mi yoksa
+3 ünlü 2 ünsüz harf mi içerirse kelimeyi bulma ihtimalimiz artar. Aslında bunun
+için Türkçedeki kelimeleri analiz etmek gerekir. 
+
+Kelimelerin olduğu veri kümesini dinamik şekilde tutup harflerin durumuna göre 
+veri kümesinden kelimeleri eleyerek oralama da yapılabilir.
+---------------------------------------------------------------------------------------------------------------------------------
