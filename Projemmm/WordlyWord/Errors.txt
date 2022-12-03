@@ -1,0 +1,2132 @@
+// BİR ÖNCEKİ FİRSTPROJECT TE TASARLADIĞIM SHOWSCREEN İ ORJİNAL KOCA İCON OLARAK EKLEMEK İSTEDİĞİMDE KARŞILAŞTIĞIM SORUNLAR (her şeyi denedim, sorun ne anlamadım :/)
+
+2022-12-04 01:59:34.390 8587-8587/? A/crash_dump32: crash_dump.cpp:474] failed to attach to thread 176: Permission denied
+2022-12-04 01:59:34.480 468-468/? E/netmgr: qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:network' service: Invalid argument
+2022-12-04 01:59:34.481 468-468/? E/netmgr: Failed to open QEMU pipe 'qemud:network': Invalid argument
+2022-12-04 01:59:46.658 474-474/? E/wifi_forwarder: qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:wififorward' service: Invalid argument
+2022-12-04 01:59:46.658 474-474/? E/wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+2022-12-04 01:59:34.396 176-176/? A/libc: crash_dump helper failed to exec
+2022-12-04 01:59:51.057 31951-31951/? E/AndroidRuntime: FATAL EXCEPTION: main
+    Process: com.android.phone, PID: 31951
+    DeadSystemException: The system died; earlier logs will point to the root cause
+2022-12-04 01:59:51.091 295-20224/? E/IPCThreadState: attemptIncStrongHandle(78): Not supported
+2022-12-04 01:59:51.091 295-20222/? E/IPCThreadState: attemptIncStrongHandle(77): Not supported
+2022-12-04 01:59:51.091 295-971/? E/IPCThreadState: attemptIncStrongHandle(79): Not supported
+2022-12-04 01:59:51.091 295-299/? E/IPCThreadState: attemptIncStrongHandle(80): Not supported
+2022-12-04 01:59:51.651 31482-31482/? E/Zygote: Zygote failed to write to system_server FD: Connection refused
+2022-12-04 01:59:51.651 31482-31482/? E/Zygote: Exit zygote because system server (pid 31520) has terminated
+2022-12-04 01:59:51.678 8263-8283/? E/AndroidRuntime: FATAL EXCEPTION: SysUiBg
+    Process: com.android.systemui, PID: 8263
+    DeadSystemException: The system died; earlier logs will point to the root cause
+2022-12-04 01:59:51.690 295-971/? E/IPCThreadState: attemptIncStrongHandle(69): Not supported
+2022-12-04 01:59:51.691 295-971/? E/IPCThreadState: attemptIncStrongHandle(73): Not supported
+2022-12-04 01:59:51.691 295-971/? E/IPCThreadState: attemptIncStrongHandle(70): Not supported
+2022-12-04 01:59:51.691 295-971/? E/IPCThreadState: attemptIncStrongHandle(72): Not supported
+2022-12-04 01:59:51.694 295-299/? E/IPCThreadState: attemptIncStrongHandle(105): Not supported
+2022-12-04 01:59:51.695 295-20224/? E/IPCThreadState: attemptIncStrongHandle(1): Not supported
+2022-12-04 01:59:51.697 32447-2768/? E/VoiceInteractionService: system service binder died shutting down
+2022-12-04 01:59:51.698 295-710/? E/IPCThreadState: attemptIncStrongHandle(74): Not supported
+2022-12-04 01:59:51.698 295-301/? E/IPCThreadState: attemptIncStrongHandle(64): Not supported
+2022-12-04 01:59:51.698 295-301/? E/IPCThreadState: attemptIncStrongHandle(41): Not supported
+2022-12-04 01:59:51.698 295-710/? E/IPCThreadState: attemptIncStrongHandle(42): Not supported
+2022-12-04 01:59:51.698 295-710/? E/IPCThreadState: attemptIncStrongHandle(43): Not supported
+2022-12-04 01:59:51.698 295-301/? E/IPCThreadState: attemptIncStrongHandle(40): Not supported
+2022-12-04 01:59:51.699 295-710/? E/IPCThreadState: attemptIncStrongHandle(46): Not supported
+2022-12-04 01:59:51.699 295-710/? E/IPCThreadState: attemptIncStrongHandle(62): Not supported
+2022-12-04 01:59:51.699 295-30331/? E/IPCThreadState: attemptIncStrongHandle(36): Not supported
+2022-12-04 01:59:51.700 295-710/? E/IPCThreadState: attemptIncStrongHandle(65): Not supported
+2022-12-04 01:59:51.700 295-710/? E/IPCThreadState: attemptIncStrongHandle(63): Not supported
+2022-12-04 01:59:51.700 295-710/? E/IPCThreadState: attemptIncStrongHandle(39): Not supported
+2022-12-04 01:59:51.700 295-710/? E/IPCThreadState: attemptIncStrongHandle(67): Not supported
+2022-12-04 01:59:51.700 295-710/? E/IPCThreadState: attemptIncStrongHandle(49): Not supported
+2022-12-04 01:59:51.700 295-709/? E/IPCThreadState: attemptIncStrongHandle(44): Not supported
+2022-12-04 01:59:51.700 295-710/? E/IPCThreadState: attemptIncStrongHandle(47): Not supported
+2022-12-04 01:59:51.700 295-20222/? E/IPCThreadState: attemptIncStrongHandle(48): Not supported
+2022-12-04 01:59:51.700 295-710/? E/IPCThreadState: attemptIncStrongHandle(35): Not supported
+2022-12-04 01:59:51.700 295-710/? E/IPCThreadState: attemptIncStrongHandle(45): Not supported
+2022-12-04 01:59:51.700 295-301/? E/IPCThreadState: attemptIncStrongHandle(38): Not supported
+2022-12-04 01:59:51.701 295-710/? E/IPCThreadState: attemptIncStrongHandle(56): Not supported
+2022-12-04 01:59:51.701 295-710/? E/IPCThreadState: attemptIncStrongHandle(37): Not supported
+2022-12-04 01:59:51.701 295-710/? E/IPCThreadState: attemptIncStrongHandle(60): Not supported
+2022-12-04 01:59:51.701 295-710/? E/IPCThreadState: attemptIncStrongHandle(11): Not supported
+2022-12-04 01:59:51.701 295-710/? E/IPCThreadState: attemptIncStrongHandle(20): Not supported
+2022-12-04 01:59:51.701 295-710/? E/IPCThreadState: attemptIncStrongHandle(32): Not supported
+2022-12-04 01:59:51.701 295-710/? E/IPCThreadState: attemptIncStrongHandle(21): Not supported
+2022-12-04 01:59:51.702 295-710/? E/IPCThreadState: attemptIncStrongHandle(22): Not supported
+2022-12-04 01:59:51.703 295-20225/? E/IPCThreadState: attemptIncStrongHandle(66): Not supported
+2022-12-04 01:59:51.702 295-710/? E/IPCThreadState: attemptIncStrongHandle(24): Not supported
+2022-12-04 01:59:51.703 295-710/? E/IPCThreadState: attemptIncStrongHandle(23): Not supported
+2022-12-04 01:59:51.703 295-710/? E/IPCThreadState: attemptIncStrongHandle(5): Not supported
+2022-12-04 01:59:51.703 295-710/? E/IPCThreadState: attemptIncStrongHandle(9): Not supported
+2022-12-04 01:59:51.704 295-20222/? E/IPCThreadState: attemptIncStrongHandle(6): Not supported
+2022-12-04 01:59:51.704 295-20222/? E/IPCThreadState: attemptIncStrongHandle(8): Not supported
+2022-12-04 01:59:51.704 295-20222/? E/IPCThreadState: attemptIncStrongHandle(18): Not supported
+2022-12-04 01:59:51.704 295-20222/? E/IPCThreadState: attemptIncStrongHandle(10): Not supported
+2022-12-04 01:59:51.704 295-20222/? E/IPCThreadState: attemptIncStrongHandle(34): Not supported
+2022-12-04 01:59:51.704 295-20222/? E/IPCThreadState: attemptIncStrongHandle(28): Not supported
+2022-12-04 01:59:51.704 295-20222/? E/IPCThreadState: attemptIncStrongHandle(30): Not supported
+2022-12-04 01:59:51.704 295-20222/? E/IPCThreadState: attemptIncStrongHandle(26): Not supported
+2022-12-04 01:59:51.704 295-20222/? E/IPCThreadState: attemptIncStrongHandle(25): Not supported
+2022-12-04 01:59:51.704 295-710/? E/IPCThreadState: attemptIncStrongHandle(7): Not supported
+2022-12-04 01:59:51.705 295-20222/? E/IPCThreadState: attemptIncStrongHandle(4): Not supported
+2022-12-04 01:59:51.705 295-20222/? E/IPCThreadState: attemptIncStrongHandle(19): Not supported
+2022-12-04 01:59:51.705 295-709/? E/IPCThreadState: attemptIncStrongHandle(13): Not supported
+2022-12-04 01:59:51.706 295-709/? E/IPCThreadState: attemptIncStrongHandle(14): Not supported
+2022-12-04 01:59:51.706 295-709/? E/IPCThreadState: attemptIncStrongHandle(55): Not supported
+2022-12-04 01:59:51.706 295-709/? E/IPCThreadState: attemptIncStrongHandle(16): Not supported
+2022-12-04 01:59:51.706 295-709/? E/IPCThreadState: attemptIncStrongHandle(53): Not supported
+2022-12-04 01:59:51.706 295-710/? E/IPCThreadState: attemptIncStrongHandle(31): Not supported
+2022-12-04 01:59:51.706 295-709/? E/IPCThreadState: attemptIncStrongHandle(12): Not supported
+2022-12-04 01:59:51.706 295-710/? E/IPCThreadState: attemptIncStrongHandle(27): Not supported
+2022-12-04 01:59:51.706 295-710/? E/IPCThreadState: attemptIncStrongHandle(51): Not supported
+2022-12-04 01:59:51.706 295-710/? E/IPCThreadState: attemptIncStrongHandle(52): Not supported
+2022-12-04 01:59:51.706 295-710/? E/IPCThreadState: attemptIncStrongHandle(59): Not supported
+2022-12-04 01:59:51.706 295-710/? E/IPCThreadState: attemptIncStrongHandle(17): Not supported
+2022-12-04 01:59:51.707 295-710/? E/IPCThreadState: attemptIncStrongHandle(57): Not supported
+2022-12-04 01:59:51.707 295-20230/? E/IPCThreadState: attemptIncStrongHandle(54): Not supported
+2022-12-04 01:59:51.707 295-301/? E/IPCThreadState: attemptIncStrongHandle(33): Not supported
+2022-12-04 01:59:51.707 295-20230/? E/IPCThreadState: attemptIncStrongHandle(15): Not supported
+2022-12-04 01:59:51.707 295-20230/? E/IPCThreadState: attemptIncStrongHandle(50): Not supported
+2022-12-04 01:59:51.707 295-301/? E/IPCThreadState: attemptIncStrongHandle(58): Not supported
+2022-12-04 01:59:51.707 295-301/? E/IPCThreadState: attemptIncStrongHandle(3): Not supported
+2022-12-04 01:59:51.707 295-20230/? E/IPCThreadState: attemptIncStrongHandle(71): Not supported
+2022-12-04 01:59:51.707 295-301/? E/IPCThreadState: attemptIncStrongHandle(2): Not supported
+2022-12-04 01:59:51.707 295-709/? E/IPCThreadState: attemptIncStrongHandle(61): Not supported
+2022-12-04 01:59:51.707 295-20222/? E/IPCThreadState: attemptIncStrongHandle(29): Not supported
+2022-12-04 01:59:51.734 31486-5492/? E/libnetd_resolv: unlinkToDeath: removed reference to death recipient but unlink failed.
+2022-12-04 01:59:51.739 295-971/? E/IPCThreadState: attemptIncStrongHandle(68): Not supported
+2022-12-04 01:59:52.733 8653-8653/? E/Netd: Error adding route 0.0.0.0/0 -> (null) dummy0 to table 1002: File exists
+2022-12-04 01:59:52.912 8650-8650/? E/CameraProviderManager: addDynamicDepthTags: Advertised depth exclusive tag but value is not present!
+2022-12-04 01:59:52.912 8650-8650/? E/CameraProviderManager: DeviceInfo3: Failed appending dynamic depth tags: Invalid argument (-22)
+2022-12-04 01:59:52.949 8650-8650/? E/CameraProviderManager: DeviceInfo3: Converted ICameraDevice instance to nullptr
+2022-12-04 01:59:53.391 8647-8688/? E/BootAnimation: Could not add watch for /data/system: Permission denied
+2022-12-04 01:59:54.292 8648-8648/? E/ActivityRecognitionHardware: activity_recognition HAL is deprecated. class_init is effectively a no-op
+2022-12-04 01:59:55.856 8690-8690/? E/system_server: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 01:59:56.549 8690-8690/? E/UsbAlsaJackDetectorJNI: Can't register UsbAlsaJackDetector native methods
+2022-12-04 01:59:56.747 418-630/? E/iorapd: Cannot get package manager service!
+2022-12-04 01:59:57.437 8715-8715/? E/APM::Serializer: deserialize: Could not parse /odm/etc/audio_policy_configuration.xml document.
+2022-12-04 01:59:57.451 8715-8715/? E/APM::AudioPolicyEngine/Config: parse: Could not parse document /vendor/etc/audio_policy_engine_configuration.xml
+2022-12-04 01:59:57.451 8715-8715/? E/libxml2: I/O warning : failed to load external entity "/vendor/etc/audio_policy_engine_configuration.xml"
+2022-12-04 01:59:57.451 8715-8715/? E/APM::AudioPolicyEngine/Config: parseLegacyVolumeFile: Could not parse document /odm/etc/audio_policy_configuration.xml
+2022-12-04 01:59:57.451 8715-8715/? E/libxml2: I/O warning : failed to load external entity "/odm/etc/audio_policy_configuration.xml"
+2022-12-04 01:59:57.487 8690-8739/? E/BluetoothAdapter: Bluetooth binder is null
+2022-12-04 01:59:57.491 8716-8716/? E/android.hardware.audio.service.ranchu: device/generic/goldfish/audio/stream_out.cpp:setEventCallback:457 failure: Result::NOT_SUPPORTED
+2022-12-04 01:59:57.491 8715-8715/? E/AudioFlinger: Failed to add event callback
+2022-12-04 01:59:57.491 8716-8716/? E/android.hardware.audio.service.ranchu: device/generic/goldfish/audio/primary_device.cpp:getParameters:234 failure: Result::NOT_SUPPORTED
+2022-12-04 01:59:57.495 8716-8716/? E/android.hardware.audio.service.ranchu: device/generic/goldfish/audio/stream_out.cpp:getPresentationPosition:487 failure: Result::NOT_SUPPORTED
+2022-12-04 01:59:57.518 8690-8739/? E/KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu1/cpufreq/stats/time_in_state: open failed: ENOENT (No such file or directory)
+2022-12-04 01:59:57.519 8690-8739/? E/KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state: open failed: ENOENT (No such file or directory)
+2022-12-04 01:59:57.534 216-599/? E/android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup34: Permission denied
+2022-12-04 01:59:57.547 216-599/? E/android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup35: Permission denied
+2022-12-04 01:59:57.576 8716-8716/? E/android.hardware.audio.service.ranchu: device/generic/goldfish/audio/stream_out.cpp:setEventCallback:457 failure: Result::NOT_SUPPORTED
+2022-12-04 01:59:57.577 8715-8715/? E/AudioFlinger: Failed to add event callback
+2022-12-04 01:59:57.577 8716-8716/? E/android.hardware.audio.service.ranchu: device/generic/goldfish/audio/primary_device.cpp:getParameters:234 failure: Result::NOT_SUPPORTED
+2022-12-04 01:59:57.577 8716-8716/? E/android.hardware.audio.service.ranchu: device/generic/goldfish/audio/stream_out.cpp:getPresentationPosition:487 failure: Result::NOT_SUPPORTED
+2022-12-04 01:59:57.629 8690-8690/? E/memtrack: Couldn't load memtrack module
+2022-12-04 01:59:58.375 362-393/? E/HWComposer: getSupportedContentTypes: getSupportedContentTypes failed for display 8141603649153536: Unsupported (8)
+2022-12-04 01:59:58.380 8690-8739/? E/BluetoothAdapter: Bluetooth binder is null
+2022-12-04 01:59:58.382 8690-8739/? E/KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu1/cpufreq/stats/time_in_state: open failed: ENOENT (No such file or directory)
+2022-12-04 01:59:58.382 8690-8739/? E/KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state: open failed: ENOENT (No such file or directory)
+2022-12-04 01:59:58.386 216-599/? E/android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup34: Permission denied
+2022-12-04 01:59:58.395 216-599/? E/android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup35: Permission denied
+2022-12-04 02:00:00.941 8690-8690/? E/PackageManager: Shared lib without setting: SharedLibraryInfo{name:com.google.android.trichromelibrary, type:static, version:410410681}
+2022-12-04 02:00:00.945 8690-8690/? E/PackageManager: Shared lib without setting: SharedLibraryInfo{name:com.google.android.trichromelibrary, type:static, version:410410681}
+2022-12-04 02:00:01.451 8690-8704/? E/HistoricalRegistry: Interaction before persistence initialized
+2022-12-04 02:00:01.468 8690-8704/? E/HistoricalRegistry: Interaction before persistence initialized
+2022-12-04 02:00:01.601 8776-8777/? E/idmap2d: failed to parse idmap header
+2022-12-04 02:00:01.686 8776-8777/? E/idmap2d: no resources were overlaid
+2022-12-04 02:00:02.066 8690-8779/? E/HistoricalRegistry: Interaction before persistence initialized
+2022-12-04 02:00:02.098 8690-8739/? E/BluetoothAdapter: Bluetooth binder is null
+2022-12-04 02:00:02.108 8690-8739/? E/KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu1/cpufreq/stats/time_in_state: open failed: ENOENT (No such file or directory)
+2022-12-04 02:00:02.108 8690-8739/? E/KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state: open failed: ENOENT (No such file or directory)
+2022-12-04 02:00:02.138 216-599/? E/android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup34: Permission denied
+2022-12-04 02:00:02.153 216-599/? E/android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup35: Permission denied
+2022-12-04 02:00:02.167 216-599/? E/android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup34: Permission denied
+2022-12-04 02:00:02.173 216-599/? E/android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup35: Permission denied
+2022-12-04 02:00:02.193 8690-8739/? E/KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state: open failed: ENOENT (No such file or directory)
+2022-12-04 02:00:02.193 8690-8739/? E/KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu1/cpufreq/stats/time_in_state: open failed: ENOENT (No such file or directory)
+2022-12-04 02:00:02.211 8690-8789/? E/SystemServer: Unable to preload default resources
+2022-12-04 02:00:02.213 216-599/? E/android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup34: Permission denied
+2022-12-04 02:00:02.231 216-599/? E/android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup35: Permission denied
+2022-12-04 02:00:02.236 8690-8739/? E/KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state: open failed: ENOENT (No such file or directory)
+2022-12-04 02:00:02.236 8690-8739/? E/KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu1/cpufreq/stats/time_in_state: open failed: ENOENT (No such file or directory)
+2022-12-04 02:00:02.243 216-599/? E/android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup34: Permission denied
+2022-12-04 02:00:02.261 216-599/? E/android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup35: Permission denied
+2022-12-04 02:00:02.449 8690-8690/? E/HistoricalRegistry: Interaction before persistence initialized
+2022-12-04 02:00:02.628 8690-8690/? E/HistoricalRegistry: Interaction before persistence initialized
+2022-12-04 02:00:02.649 8690-8690/? E/IntegrityFileManager: Error creating staging and rules directory
+2022-12-04 02:00:02.650 8690-8794/? E/InputClassifier: Could not add the event to the queue. Resetting
+2022-12-04 02:00:02.650 8690-8794/? E/InputClassifier: Could not add the event to the queue. Resetting
+2022-12-04 02:00:02.766 418-630/? E/IPCThreadState: binder thread pool (1 threads) starved for 11057 ms
+2022-12-04 02:00:03.713 8690-8690/? E/HistoricalRegistry: Interaction before persistence initialized
+2022-12-04 02:00:03.716 8690-8690/? E/WifiClientModeImpl: getWifiLinkLayerStats called without an interface
+2022-12-04 02:00:04.287 8690-8712/? E/UsbDeviceManager: failed to write to /sys/class/android_usb/android0/f_rndis/ethaddr
+2022-12-04 02:00:04.296 8690-8712/? E/UsbDeviceManagerJNI: could not open control for mtp No such file or directory
+2022-12-04 02:00:04.296 8690-8712/? E/UsbDeviceManager: Failed to open control for mtp
+2022-12-04 02:00:04.296 8690-8712/? E/UsbDeviceManagerJNI: could not open control for ptp No such file or directory
+2022-12-04 02:00:04.296 8690-8712/? E/UsbDeviceManager: Failed to open control for ptp
+2022-12-04 02:00:04.322 8690-8712/? E/UsbDeviceManagerJNI: could not open /dev/usb_accessory
+2022-12-04 02:00:04.335 334-334/? E/android.hardware.usb@1.0-service: Failed to open /sys/class/dual_role_usb
+2022-12-04 02:00:04.343 8690-8690/? E/HistoricalRegistry: Interaction before persistence initialized
+2022-12-04 02:00:04.620 8690-8690/? E/HistoricalRegistry: Interaction before persistence initialized
+2022-12-04 02:00:04.635 461-461/? E/FingerprintHal: Could not load fingerprints from storage at /data/vendor_de/0/fpdata/emufp.bin; it has not yet been created.
+2022-12-04 02:00:04.712 8690-8690/? E/AutofillManagerServiceImpl: Bad service name: com.google.android.gms/.autofill.service.AutofillService
+2022-12-04 02:00:04.712 8690-8690/? E/RemoteAugmentedAutofillService: Bad service name for flags 1048704: com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiAugmentedAutofillService
+2022-12-04 02:00:04.720 8690-8690/? E/HistoricalRegistry: Interaction before persistence initialized
+2022-12-04 02:00:04.785 8690-8690/? E/HistoricalRegistry: Interaction before persistence initialized
+2022-12-04 02:00:04.856 8690-8690/? E/TestHarnessModeService: Failed to start Test Harness Mode; no implementation of PersistentDataBlockManagerInternal was bound!
+2022-12-04 02:00:04.860 8690-8690/? E/HistoricalRegistry: Interaction before persistence initialized
+2022-12-04 02:00:04.916 8690-8690/? E/HistoricalRegistry: Interaction before persistence initialized
+2022-12-04 02:00:04.923 8690-8807/? E/SupplicantStaIfaceHal: Can't call setDebugParams, ISupplicant is null
+2022-12-04 02:00:04.924 8690-8807/? E/HostapdHal: Can't call setDebugParams, IHostapd is null
+2022-12-04 02:00:04.929 8690-8690/? E/HistoricalRegistry: Interaction before persistence initialized
+2022-12-04 02:00:04.950 8690-8690/? E/DisplayPowerController: failed to set up display white-balance: java.lang.IllegalStateException: cannot find sensor com.google.sensor.color
+2022-12-04 02:00:04.966 216-599/? E/android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup34: Permission denied
+2022-12-04 02:00:04.995 216-599/? E/android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup35: Permission denied
+2022-12-04 02:00:05.010 8690-8739/? E/KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu0/cpufreq/stats/time_in_state: open failed: ENOENT (No such file or directory)
+2022-12-04 02:00:05.010 8690-8739/? E/KernelCpuSpeedReader: Failed to read cpu-freq: /sys/devices/system/cpu/cpu1/cpufreq/stats/time_in_state: open failed: ENOENT (No such file or directory)
+2022-12-04 02:00:05.025 216-599/? E/android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup34: Permission denied
+2022-12-04 02:00:05.034 216-599/? E/android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup35: Permission denied
+2022-12-04 02:00:05.397 8690-8708/? E/DisplayModeDirector: Asked about unknown display, returning empty display mode specs!(id=0)
+2022-12-04 02:00:05.398 8690-8708/? E/DisplayModeDirector: Asked about unknown display, returning empty display mode specs!(id=0)
+2022-12-04 02:00:05.555 8848-8848/? E/droid.bluetoot: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:05.618 8690-8690/? E/BitmapFactory: Unable to decode stream: java.io.FileNotFoundException: /data/system/users/0/wallpaper_orig: open failed: ENOENT (No such file or directory)
+2022-12-04 02:00:05.618 8690-8690/? E/WallpaperManagerService: Unable to apply new wallpaper
+2022-12-04 02:00:05.630 334-334/? E/android.hardware.usb@1.0-service: Failed to open /sys/class/dual_role_usb
+2022-12-04 02:00:05.630 8690-8827/? E/UsbPortManager: port status enquiry failed
+2022-12-04 02:00:05.687 8867-8867/? E/ndroid.systemu: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:05.944 8922-8922/? E/WebViewLoader-: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:05.987 446-869/? E/OMXNodeInstance: getExtensionIndex(0xe8800f60:android.goldfish.h264.decoder, OMX.google.android.index.configureVideoTunnelMode) ERROR: UnsupportedIndex(0x8000101a)
+2022-12-04 02:00:06.066 446-869/? E/OMXNodeInstance: getExtensionIndex(0xe8800f60:google.h264.decoder, OMX.google.android.index.configureVideoTunnelMode) ERROR: UnsupportedIndex(0x8000101a)
+2022-12-04 02:00:06.067 446-869/? E/OMXNodeInstance: getExtensionIndex(0xe8800f60:google.h264.decoder, OMX.google.android.index.enableAndroidNativeBuffers) ERROR: UnsupportedIndex(0x8000101a)
+2022-12-04 02:00:06.154 446-869/? E/OMXNodeInstance: getExtensionIndex(0xe8800f60:google.h263.decoder, OMX.google.android.index.configureVideoTunnelMode) ERROR: UnsupportedIndex(0x8000101a)
+2022-12-04 02:00:06.155 446-869/? E/OMXNodeInstance: getExtensionIndex(0xe8800f60:google.h263.decoder, OMX.google.android.index.enableAndroidNativeBuffers) ERROR: UnsupportedIndex(0x8000101a)
+2022-12-04 02:00:06.208 446-869/? E/OMXNodeInstance: getExtensionIndex(0xe8800f60:google.hevc.decoder, OMX.google.android.index.configureVideoTunnelMode) ERROR: UnsupportedIndex(0x8000101a)
+2022-12-04 02:00:06.209 446-869/? E/OMXNodeInstance: getExtensionIndex(0xe8800f60:google.hevc.decoder, OMX.google.android.index.enableAndroidNativeBuffers) ERROR: UnsupportedIndex(0x8000101a)
+2022-12-04 02:00:06.236 446-869/? E/OMXNodeInstance: getExtensionIndex(0xe8800f60:google.mpeg4.decoder, OMX.google.android.index.configureVideoTunnelMode) ERROR: UnsupportedIndex(0x8000101a)
+2022-12-04 02:00:06.239 446-869/? E/OMXNodeInstance: getExtensionIndex(0xe8800f60:google.mpeg4.decoder, OMX.google.android.index.enableAndroidNativeBuffers) ERROR: UnsupportedIndex(0x8000101a)
+2022-12-04 02:00:06.258 446-869/? E/OMXNodeInstance: getExtensionIndex(0xe8800f60:android.goldfish.vp8.decoder, OMX.google.android.index.configureVideoTunnelMode) ERROR: UnsupportedIndex(0x8000101a)
+2022-12-04 02:00:06.272 8690-8690/? E/ActivityRecognitionHardware: activity_recognition HAL is deprecated. is_supported is effectively a no-op
+2022-12-04 02:00:06.353 446-869/? E/OMXNodeInstance: getExtensionIndex(0xe8800f60:google.vp8.decoder, OMX.google.android.index.configureVideoTunnelMode) ERROR: UnsupportedIndex(0x8000101a)
+2022-12-04 02:00:06.355 446-869/? E/OMXNodeInstance: getExtensionIndex(0xe8800f60:google.vp8.decoder, OMX.google.android.index.enableAndroidNativeBuffers) ERROR: UnsupportedIndex(0x8000101a)
+2022-12-04 02:00:06.362 8848-8978/? E/bt_btif_storage: btif_storage_get_adapter_property: Controller not ready! Unable to return Bluetooth Address
+2022-12-04 02:00:06.365 8848-8978/? E/BluetoothServiceJni: adapter_properties_callback: Status 1 is incorrect
+2022-12-04 02:00:06.385 446-798/? E/OMXNodeInstance: getExtensionIndex(0xe8800550:android.goldfish.vp9.decoder, OMX.google.android.index.configureVideoTunnelMode) ERROR: UnsupportedIndex(0x8000101a)
+2022-12-04 02:00:06.421 446-798/? E/OMXNodeInstance: getExtensionIndex(0xe8800550:google.vp9.decoder, OMX.google.android.index.configureVideoTunnelMode) ERROR: UnsupportedIndex(0x8000101a)
+2022-12-04 02:00:06.421 446-798/? E/OMXNodeInstance: getExtensionIndex(0xe8800550:google.vp9.decoder, OMX.google.android.index.enableAndroidNativeBuffers) ERROR: UnsupportedIndex(0x8000101a)
+2022-12-04 02:00:06.504 8690-8705/? E/GnssLocationProvider: IGnssConfiguration setEsExtensionSec() failed.
+2022-12-04 02:00:06.504 8690-8705/? E/GnssConfiguration: Unable to set ES_EXTENSION_SEC: 0
+2022-12-04 02:00:06.509 446-446/? E/OMXNodeInstance: getConfig(0xe8800550:google.h263.encoder, ConfigAndroidIntraRefresh(0x6f60000a)) ERROR: Undefined(0x80001001)
+2022-12-04 02:00:06.510 446-446/? E/OMXNodeInstance: getParameter(0xe8800550:google.h263.encoder, ParamVideoIntraRefresh(0x6000006)) ERROR: UnsupportedIndex(0x8000101a)
+2022-12-04 02:00:06.523 8690-8705/? E/GnssBatchingProvider: Failed to initialize GNSS batching
+2022-12-04 02:00:06.544 446-446/? E/OMXNodeInstance: getConfig(0xe8800550:google.mpeg4.encoder, ConfigAndroidIntraRefresh(0x6f60000a)) ERROR: Undefined(0x80001001)
+2022-12-04 02:00:06.545 446-446/? E/OMXNodeInstance: getParameter(0xe8800550:google.mpeg4.encoder, ParamVideoIntraRefresh(0x6000006)) ERROR: UnsupportedIndex(0x8000101a)
+2022-12-04 02:00:06.571 446-446/? E/OMXNodeInstance: getConfig(0xe8800550:google.vp8.encoder, ConfigAndroidIntraRefresh(0x6f60000a)) ERROR: Undefined(0x80001001)
+2022-12-04 02:00:06.571 446-446/? E/OMXNodeInstance: getParameter(0xe8800550:google.vp8.encoder, ParamVideoIntraRefresh(0x6000006)) ERROR: UnsupportedIndex(0x8000101a)
+2022-12-04 02:00:06.781 8867-8867/? E/NavigationModeController: updateCurrentInteractionMode: mode=0
+2022-12-04 02:00:06.796 9023-9023/? E/rkstack.proces: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:07.150 9046-9046/? E/com.android.se: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:07.267 8867-9070/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.267 8867-9070/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.270 453-453/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.270 453-453/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.275 8867-9070/? E/ion: ioctl c0044901 failed with code -1: Inappropriate ioctl for device
+2022-12-04 02:00:07.278 8867-9070/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.279 453-14506/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.283 8867-9072/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.283 8867-9072/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.285 453-23636/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.285 453-23636/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.310 453-9080/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.310 8867-9072/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.311 8867-9077/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.312 453-963/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.355 453-9081/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.357 8867-9077/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.398 8690-8887/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.399 8690-8887/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.399 8690-8889/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.400 8690-8889/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.400 453-23636/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.400 453-23636/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.403 453-14506/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.403 453-14506/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.407 8690-8889/? E/ion: ioctl c0044901 failed with code -1: Inappropriate ioctl for device
+2022-12-04 02:00:07.411 8690-8889/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.413 453-23636/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.416 8690-8887/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.418 453-23636/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.455 453-9084/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.456 8690-9007/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.467 453-9085/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.469 8690-8826/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.680 8867-9090/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.680 8867-9090/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.681 453-20664/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.682 453-20664/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.689 8867-9090/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.689 453-20664/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.722 453-9093/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.724 8867-9077/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.736 8690-9095/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.736 8690-9095/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.739 453-933/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.739 453-933/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.746 8690-9095/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.746 453-933/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.785 8690-9097/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.785 8690-9097/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.788 453-20664/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.788 453-20664/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.793 453-9096/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.793 8690-8826/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.797 8690-9097/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.797 453-933/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.832 453-9098/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.833 8690-9007/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:07.989 8690-8705/? E/GnssLocationProvider: IGnssConfiguration setBlacklist() failed.
+2022-12-04 02:00:08.076 8690-9104/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:08.077 8690-9104/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:08.079 453-23636/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:08.079 453-23636/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:08.086 8690-9104/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:08.087 453-23636/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:08.113 8690-9106/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:08.113 8690-9106/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:08.115 453-963/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:08.115 453-963/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:08.121 453-9105/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:08.121 8690-9106/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:08.121 453-963/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:08.121 8690-8827/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:08.146 453-9107/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:08.147 8690-9007/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:00:08.396 9113-9113/? E/m.android.phon: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:08.451 9123-9123/? E/ndroid.setting: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:08.475 9150-9150/? E/id.ext.service: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:08.522 8690-8707/? E/BluetoothManagerService: MESSAGE_TIMEOUT_BIND
+2022-12-04 02:00:08.555 9177-9177/? E/s.nexuslaunche: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:08.648 8867-9141/? E/vol.VolumeDialogControl: isCaptionsServiceEnabled failed to check for captions component
+    java.lang.IllegalArgumentException: Unknown component: ComponentInfo{com.google.android.as/com.google.android.apps.miphone.aiai.captions.CaptionsService}
+        at android.os.Parcel.createExceptionOrNull(Parcel.java:2377)
+        at android.os.Parcel.createException(Parcel.java:2357)
+        at android.os.Parcel.readException(Parcel.java:2340)
+        at android.os.Parcel.readException(Parcel.java:2282)
+        at android.content.pm.IPackageManager$Stub$Proxy.getComponentEnabledSetting(IPackageManager.java:6804)
+        at android.app.ApplicationPackageManager.getComponentEnabledSetting(ApplicationPackageManager.java:2723)
+        at com.android.systemui.volume.VolumeDialogControllerImpl.onGetCaptionsComponentStateW(VolumeDialogControllerImpl.java:441)
+        at com.android.systemui.volume.VolumeDialogControllerImpl.access$2000(VolumeDialogControllerImpl.java:92)
+        at com.android.systemui.volume.VolumeDialogControllerImpl$W.handleMessage(VolumeDialogControllerImpl.java:825)
+        at android.os.Handler.dispatchMessage(Handler.java:106)
+        at android.os.Looper.loop(Looper.java:223)
+        at android.os.HandlerThread.run(HandlerThread.java:67)
+     Caused by: android.os.RemoteException: Remote stack trace:
+        at com.android.server.pm.PackageManagerService.getComponentEnabledSetting(PackageManagerService.java:21394)
+        at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:3216)
+        at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4302)
+        at android.os.Binder.execTransactInternal(Binder.java:1154)
+        at android.os.Binder.execTransact(Binder.java:1123)
+2022-12-04 02:00:08.991 9113-9113/? E/CarrierIdProvider: read carrier list from ota pb failure: java.io.FileNotFoundException: /data/misc/carrierid/carrier_list.pb: open failed: ENOENT (No such file or directory)
+2022-12-04 02:00:09.102 8690-8690/? E/WiredAccessoryManager: No state change.
+2022-12-04 02:00:09.119 8690-8690/? E/TrustManagerService: EXTRA_USER_HANDLE missing or invalid, value=0
+2022-12-04 02:00:09.259 305-305/? E/bt: system/bt/vendor_libs/test_vendor_lib/model/devices/device_properties.cc:83 DeviceProperties: Error reading controller properties from file.
+2022-12-04 02:00:09.403 8690-8690/? E/ContentCapturePerUserService: Bad service name: com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiContentCaptureService
+2022-12-04 02:00:09.404 8690-8690/? E/ContentCapturePerUserService: Bad service name: com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiContentCaptureService
+2022-12-04 02:00:09.404 8690-8690/? E/ContentSuggestionsPerUserService: Bad service name: com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiContentSuggestionsService
+2022-12-04 02:00:09.408 8690-8690/? E/AutofillManagerServiceImpl: Bad service name: com.google.android.gms/.autofill.service.AutofillService
+2022-12-04 02:00:09.408 8690-8690/? E/RemoteAugmentedAutofillService: Bad service name for flags 1048704: com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiAugmentedAutofillService
+2022-12-04 02:00:09.410 8848-8978/? E/bt_btif_storage: btif_storage_get_adapter_property: Controller ready!
+2022-12-04 02:00:09.419 9113-9230/? E/android_os_HwBinder: Uncaught exception!
+2022-12-04 02:00:09.536 8848-8848/? E/a2dp_vendor_aptx_encoder: A2DP_VendorLoadEncoderAptx: cannot open aptX encoder library libaptX_encoder.so: dlopen failed: library "libaptX_encoder.so" not found
+2022-12-04 02:00:09.538 8848-8848/? E/a2dp_vendor_aptx: init: cannot load the encoder
+2022-12-04 02:00:09.544 8848-8848/? E/a2dp_vendor_aptx_hd_encoder: A2DP_VendorLoadEncoderAptxHd: cannot open aptX-HD encoder library libaptXHD_encoder.so: dlopen failed: library "libaptXHD_encoder.so" not found
+2022-12-04 02:00:09.545 8848-8848/? E/a2dp_vendor_aptx_hd: init: cannot load the encoder
+2022-12-04 02:00:09.553 8848-8848/? E/a2dp_vendor_ldac_decoder: A2DP_VendorLoadDecoderLdac: cannot open LDAC decoder library libldacBT_bco.so: dlopen failed: library "libldacBT_bco.so" not found
+2022-12-04 02:00:09.553 8848-8848/? E/a2dp_vendor_ldac: init: cannot load the decoder
+2022-12-04 02:00:09.557 8848-8848/? E/a2dp_vendor_aptx_encoder: A2DP_VendorLoadEncoderAptx: cannot open aptX encoder library libaptX_encoder.so: dlopen failed: library "libaptX_encoder.so" not found
+2022-12-04 02:00:09.557 8848-8848/? E/a2dp_vendor_aptx: init: cannot load the encoder
+2022-12-04 02:00:09.559 8848-8848/? E/a2dp_vendor_aptx_hd_encoder: A2DP_VendorLoadEncoderAptxHd: cannot open aptX-HD encoder library libaptXHD_encoder.so: dlopen failed: library "libaptXHD_encoder.so" not found
+2022-12-04 02:00:09.559 8848-8848/? E/a2dp_vendor_aptx_hd: init: cannot load the encoder
+2022-12-04 02:00:09.560 8848-8848/? E/a2dp_vendor_ldac_decoder: A2DP_VendorLoadDecoderLdac: cannot open LDAC decoder library libldacBT_bco.so: dlopen failed: library "libldacBT_bco.so" not found
+2022-12-04 02:00:09.560 8848-8848/? E/a2dp_vendor_ldac: init: cannot load the decoder
+2022-12-04 02:00:09.564 8848-8848/? E/a2dp_vendor_aptx_encoder: A2DP_VendorLoadEncoderAptx: cannot open aptX encoder library libaptX_encoder.so: dlopen failed: library "libaptX_encoder.so" not found
+2022-12-04 02:00:09.565 8848-8848/? E/a2dp_vendor_aptx: init: cannot load the encoder
+2022-12-04 02:00:09.565 8848-8848/? E/a2dp_vendor_aptx_hd_encoder: A2DP_VendorLoadEncoderAptxHd: cannot open aptX-HD encoder library libaptXHD_encoder.so: dlopen failed: library "libaptXHD_encoder.so" not found
+2022-12-04 02:00:09.565 8848-8848/? E/a2dp_vendor_aptx_hd: init: cannot load the encoder
+2022-12-04 02:00:09.578 8848-8848/? E/a2dp_vendor_ldac_decoder: A2DP_VendorLoadDecoderLdac: cannot open LDAC decoder library libldacBT_bco.so: dlopen failed: library "libldacBT_bco.so" not found
+2022-12-04 02:00:09.578 8848-8848/? E/a2dp_vendor_ldac: init: cannot load the decoder
+2022-12-04 02:00:09.579 8848-8848/? E/a2dp_vendor_aptx_encoder: A2DP_VendorLoadEncoderAptx: cannot open aptX encoder library libaptX_encoder.so: dlopen failed: library "libaptX_encoder.so" not found
+2022-12-04 02:00:09.579 8848-8848/? E/a2dp_vendor_aptx: init: cannot load the encoder
+2022-12-04 02:00:09.580 8848-8848/? E/a2dp_vendor_aptx_hd_encoder: A2DP_VendorLoadEncoderAptxHd: cannot open aptX-HD encoder library libaptXHD_encoder.so: dlopen failed: library "libaptXHD_encoder.so" not found
+2022-12-04 02:00:09.580 8848-8848/? E/a2dp_vendor_aptx_hd: init: cannot load the encoder
+2022-12-04 02:00:09.584 8848-8848/? E/a2dp_vendor_ldac_decoder: A2DP_VendorLoadDecoderLdac: cannot open LDAC decoder library libldacBT_bco.so: dlopen failed: library "libldacBT_bco.so" not found
+2022-12-04 02:00:09.584 8848-8848/? E/a2dp_vendor_ldac: init: cannot load the decoder
+2022-12-04 02:00:09.589 8848-8848/? E/a2dp_vendor_aptx_encoder: A2DP_VendorLoadEncoderAptx: cannot open aptX encoder library libaptX_encoder.so: dlopen failed: library "libaptX_encoder.so" not found
+2022-12-04 02:00:09.603 8848-8848/? E/a2dp_vendor_aptx: init: cannot load the encoder
+2022-12-04 02:00:09.603 8848-8848/? E/a2dp_vendor_aptx_hd_encoder: A2DP_VendorLoadEncoderAptxHd: cannot open aptX-HD encoder library libaptXHD_encoder.so: dlopen failed: library "libaptXHD_encoder.so" not found
+2022-12-04 02:00:09.604 8848-8848/? E/a2dp_vendor_aptx_hd: init: cannot load the encoder
+2022-12-04 02:00:09.604 8848-8848/? E/a2dp_vendor_ldac_decoder: A2DP_VendorLoadDecoderLdac: cannot open LDAC decoder library libldacBT_bco.so: dlopen failed: library "libldacBT_bco.so" not found
+2022-12-04 02:00:09.605 8848-8848/? E/a2dp_vendor_ldac: init: cannot load the decoder
+2022-12-04 02:00:09.609 8848-8848/? E/a2dp_vendor_aptx_encoder: A2DP_VendorLoadEncoderAptx: cannot open aptX encoder library libaptX_encoder.so: dlopen failed: library "libaptX_encoder.so" not found
+2022-12-04 02:00:09.609 8848-8848/? E/a2dp_vendor_aptx: init: cannot load the encoder
+2022-12-04 02:00:09.610 8848-8848/? E/a2dp_vendor_aptx_hd_encoder: A2DP_VendorLoadEncoderAptxHd: cannot open aptX-HD encoder library libaptXHD_encoder.so: dlopen failed: library "libaptXHD_encoder.so" not found
+2022-12-04 02:00:09.610 8848-8848/? E/a2dp_vendor_aptx_hd: init: cannot load the encoder
+2022-12-04 02:00:09.611 8848-8848/? E/a2dp_vendor_ldac_decoder: A2DP_VendorLoadDecoderLdac: cannot open LDAC decoder library libldacBT_bco.so: dlopen failed: library "libldacBT_bco.so" not found
+2022-12-04 02:00:09.611 8848-8848/? E/a2dp_vendor_ldac: init: cannot load the decoder
+2022-12-04 02:00:09.766 8848-8848/? E/BluetoothPhonePolicy: autoConnect: most recently active a2dp device is null
+2022-12-04 02:00:10.450 8867-8867/? E/libEGL: validate_display:89 error 3001 (EGL_NOT_INITIALIZED)
+2022-12-04 02:00:10.672 8690-8703/? E/WindowManager: Window Session Crash
+    java.lang.IllegalArgumentException: Requested window null does not exist
+        at com.android.server.wm.WindowManagerService.windowForClientLocked(WindowManagerService.java:5433)
+        at com.android.server.wm.Session.actionOnWallpaper(Session.java:356)
+        at com.android.server.wm.Session.setWallpaperZoomOut(Session.java:382)
+        at android.view.IWindowSession$Stub.onTransact(IWindowSession.java:1154)
+        at com.android.server.wm.Session.onTransact(Session.java:139)
+        at android.os.Binder.execTransactInternal(Binder.java:1159)
+        at android.os.Binder.execTransact(Binder.java:1123)
+2022-12-04 02:00:11.202 9113-9113/? E/PhoneInterfaceManager: [PhoneIntfMgr] getIccId: No UICC
+2022-12-04 02:00:11.231 9304-9304/? E/.gms.persisten: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:11.332 9113-9113/? E/PhoneInterfaceManager: [PhoneIntfMgr] getIccId: No UICC
+2022-12-04 02:00:11.377 9113-9113/? E/PhoneInterfaceManager: [PhoneIntfMgr] getIccId: No UICC
+2022-12-04 02:00:11.714 9113-9113/? E/PhoneInterfaceManager: [PhoneIntfMgr] getIccId: No UICC
+2022-12-04 02:00:11.943 9113-9113/? E/PhoneInterfaceManager: [PhoneIntfMgr] getIccId: No UICC
+2022-12-04 02:00:12.247 8690-8708/? E/TestHarnessModeService: Failed to start Test Harness Mode; no implementation of PersistentDataBlockManagerInternal was bound!
+2022-12-04 02:00:12.260 9113-9113/? E/PhoneInterfaceManager: [PhoneIntfMgr] getIccId: No UICC
+2022-12-04 02:00:12.270 8690-8705/? E/AdbDebuggingManager: Expected keyStore, but got tag=null
+2022-12-04 02:00:12.271 8690-8705/? E/AdbDebuggingManager: Expected keyStore, but got tag=null
+2022-12-04 02:00:12.319 9340-9340/? E/putmethod.lati: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:12.332 9113-9113/? E/PhoneInterfaceManager: [PhoneIntfMgr] getIccId: No UICC
+2022-12-04 02:00:12.333 8690-8708/? E/UserspaceRebootLogger: Userspace reboot is not supported.
+2022-12-04 02:00:12.451 9363-9363/? E/.apps.wellbein: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:12.459 9113-9113/? E/PhoneInterfaceManager: [PhoneIntfMgr] getIccId: No UICC
+2022-12-04 02:00:12.702 9113-9113/? E/PhoneInterfaceManager: [PhoneIntfMgr] getIccId: No UICC
+2022-12-04 02:00:12.719 9397-9397/? E/oadcastreceive: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:12.858 9113-9113/? E/PhoneInterfaceManager: [PhoneIntfMgr] getIccId: No UICC
+2022-12-04 02:00:13.618 9363-9432/? E/GmsClient: unable to connect to service: com.google.android.gms.phenotype.service.START on com.google.android.gms
+2022-12-04 02:00:13.742 9363-9432/? E/GmsClient: unable to connect to service: com.google.android.gms.phenotype.service.START on com.google.android.gms
+2022-12-04 02:00:13.756 9363-9432/? E/MendelPackageState: Failed to commit to config
+    jzr: 17: 17: API: Phenotype.API is not available on this device. Connection failed with: ibt{statusCode=API_UNAVAILABLE, resolution=null, message=null}
+        at jzu.a(Unknown Source:1)
+        at nis.a(PG:3)
+        at niu.run(PG:23)
+        at nla.execute(PG:3)
+        at nji.b(PG:77)
+        at nji.a(PG:76)
+        at nji.a(PG:175)
+        at nmq.a(PG:3)
+        at jjj.a(Unknown Source:6)
+        at iug.run(PG:2)
+        at nla.execute(PG:3)
+        at iuh.a(PG:4)
+        at iuu.a(PG:10)
+        at iuv.b(PG:7)
+        at idy.a(PG:2)
+        at ify.a(PG:106)
+        at ify.a(PG:98)
+        at ify.a(PG:153)
+        at ify.a(PG:127)
+        at iga.run(PG:12)
+        at android.os.Handler.handleCallback(Handler.java:938)
+        at android.os.Handler.dispatchMessage(Handler.java:99)
+        at android.os.Looper.loop(Looper.java:223)
+        at android.os.HandlerThread.run(HandlerThread.java:67)
+     Caused by: ida: 17: API: Phenotype.API is not available on this device. Connection failed with: ibt{statusCode=API_UNAVAILABLE, resolution=null, message=null}
+        at xy.a(PG:8)
+        at ieb.a(PG:2)
+        at idy.a(PG:2) 
+        at ify.a(PG:106) 
+        at ify.a(PG:98) 
+        at ify.a(PG:153) 
+        at ify.a(PG:127) 
+        at iga.run(PG:12) 
+        at android.os.Handler.handleCallback(Handler.java:938) 
+        at android.os.Handler.dispatchMessage(Handler.java:99) 
+        at android.os.Looper.loop(Looper.java:223) 
+        at android.os.HandlerThread.run(HandlerThread.java:67) 
+2022-12-04 02:00:14.375 9340-9454/? E/FileCache: FileCache.clearObsoleteFilesInternal():271 Failed to delete all obsolete files under folder: /data/user_de/0/com.google.android.inputmethod.latin/cache/kb_def
+2022-12-04 02:00:14.425 8690-8705/? E/GnssLocationProvider: IGnssConfiguration setEsExtensionSec() failed.
+2022-12-04 02:00:14.425 8690-8705/? E/GnssConfiguration: Unable to set ES_EXTENSION_SEC: 0
+2022-12-04 02:00:14.461 8690-8705/? E/GnssLocationProvider: IGnssConfiguration setEsExtensionSec() failed.
+2022-12-04 02:00:14.461 8690-8705/? E/GnssConfiguration: Unable to set ES_EXTENSION_SEC: 0
+2022-12-04 02:00:14.870 9113-9113/? E/ConnectivityManager: NetworkCallback was already registered
+2022-12-04 02:00:15.006 9467-9467/? E/ocess.gservice: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:15.100 8690-8726/? E/ContentCapturePerUserService: Bad service name: com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiContentCaptureService
+2022-12-04 02:00:15.101 8690-8726/? E/ContentCapturePerUserService: Bad service name: com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiContentCaptureService
+2022-12-04 02:00:15.102 8690-8726/? E/SystemCaptionsManagerPerUserService: Bad service name: com.google.android.as/com.google.android.apps.miphone.aiai.captions.SystemCaptionsManagerService
+2022-12-04 02:00:15.119 8690-8726/? E/AppPredictionPerUserService: Bad service name: com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService
+2022-12-04 02:00:15.121 8690-8726/? E/ContentSuggestionsPerUserService: Bad service name: com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiContentSuggestionsService
+2022-12-04 02:00:15.223 8690-8726/? E/RemoteAugmentedAutofillService: Bad service name for flags 1048704: com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiAugmentedAutofillService
+2022-12-04 02:00:15.224 8690-8726/? E/RemoteAugmentedAutofillService: Bad service name for flags 1048704: com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiAugmentedAutofillService
+2022-12-04 02:00:15.284 9493-9493/? E/hbox:interacto: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:15.497 9517-9517/? E/.ims.rcsservic: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:15.645 9549-9549/? E/or.multidispla: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:15.689 8690-8830/? E/BackupPasswordManager: Unable to read backup pw version
+2022-12-04 02:00:15.696 8690-8830/? E/BackupPasswordManager: Unable to read saved backup pw hash
+2022-12-04 02:00:15.776 9571-9571/? E/rs.media.modul: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:15.956 9600-9600/? E/.android.diale: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:16.016 9623-9623/? E/s.youtube.musi: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:16.173 9648-9648/? E/earchbox:searc: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:16.329 9670-9670/? E/android.youtub: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:16.460 9694-9694/? E/droid.deskcloc: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:16.944 9742-9742/? E/gle.android.gm: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:16.980 9177-9646/? E/FrameEvents: updateAcquireFence: Did not find frame.
+2022-12-04 02:00:17.026 9177-9646/? E/FrameEvents: updateAcquireFence: Did not find frame.
+2022-12-04 02:00:17.051 8690-8705/? E/GnssLocationProvider: IGnssConfiguration setEsExtensionSec() failed.
+2022-12-04 02:00:17.051 8690-8705/? E/GnssConfiguration: Unable to set ES_EXTENSION_SEC: 0
+2022-12-04 02:00:17.220 9779-9779/? E/d.process.acor: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:17.276 9789-9789/? E/e.process.gapp: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:17.513 8690-8705/? E/GnssLocationProvider: IGnssConfiguration setEsExtensionSec() failed.
+2022-12-04 02:00:17.513 8690-8705/? E/GnssConfiguration: Unable to set ES_EXTENSION_SEC: 0
+2022-12-04 02:00:17.649 9670-9670/? E/YouTube: flushBinderConnectionCallbacks is unverified on SDK 30
+2022-12-04 02:00:17.693 9177-9646/? E/FrameEvents: updateAcquireFence: Did not find frame.
+2022-12-04 02:00:17.742 9177-9646/? E/FrameEvents: updateAcquireFence: Did not find frame.
+2022-12-04 02:00:19.012 9940-9940/? E/.apps.messagin: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:19.227 9177-9177/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2022-12-04 02:00:19.276 9964-9964/? E/.localtranspor: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:20.204 8848-8848/? E/MediaBrowser: onConnectFailed for ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.apps.search.podcasts.browser.PodcastBrowserService}
+2022-12-04 02:00:20.302 8690-8731/? E/libprocessgroup: AddTidToCgroup failed to write '10034'; fd=60: Invalid argument
+2022-12-04 02:00:20.302 8690-8731/? E/libprocessgroup: Failed to add task into cgroup
+2022-12-04 02:00:20.469 8653-8653/? E/Netd: Error adding route 10.0.2.0/24 -> (null) radio0 to table 1017: File exists
+2022-12-04 02:00:20.471 8653-8653/? E/Netd: Error adding route fe80::/64 -> (null) radio0 to table 1017: File exists
+2022-12-04 02:00:20.473 8653-8653/? E/Netd: Error adding route ::/0 -> fe80::2 radio0 to table 1017: File exists
+2022-12-04 02:00:20.475 8653-8653/? E/Netd: Error adding route 0.0.0.0/0 -> 10.0.2.2 radio0 to table 1017: File exists
+2022-12-04 02:00:20.782 9670-9918/? E/GEL_DELAYED_EVENT_DEBUG: Failed delayed event dispatch, no dispatchers.
+2022-12-04 02:00:20.801 9177-9177/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2022-12-04 02:00:21.421 9304-9304/? E/NanoAppLogging: Failed to begin contexthub communication
+2022-12-04 02:00:21.493 9623-10016/? E/GEL_DELAYED_EVENT_DEBUG: Failed delayed event dispatch, no dispatchers.
+2022-12-04 02:00:21.709 9623-10029/? E/AwarenessClientProvider: Account associated with identity was null
+2022-12-04 02:00:21.902 10159-10159/? E/gle.android.im: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:21.907 9623-10029/? E/AwarenessRouterSyncMgr: Exception while syncing fences
+    java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Account associated with identity was null
+        at zsp.a(PG:135)
+        at zsp.get(PG:82)
+        at zwj.a(PG:1)
+        at zuv.a(PG:4)
+        at fyf.run(Unknown Source:1)
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+        at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:301)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at pqt.run(PG:13)
+        at java.lang.Thread.run(Thread.java:923)
+     Caused by: java.lang.IllegalStateException: Account associated with identity was null
+        at fxj.a(Unknown Source:3)
+        at zsr.a(PG:3)
+        at zst.run(PG:23)
+        at zvn.run(PG:2)
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462) 
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266) 
+        at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:301) 
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167) 
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641) 
+        at pqt.run(PG:13) 
+        at java.lang.Thread.run(Thread.java:923) 
+2022-12-04 02:00:22.347 9304-9304/? E/.gms.persisten: Invalid ID 0x00000000.
+2022-12-04 02:00:22.499 10193-10193/? E/id.printspoole: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:22.825 10227-10227/? E/ndroid.keychai: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:25.977 10429-10429/? E/.android.gms.u: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:27.269 9742-10216/? E/PhenotypeFlagCommitter: Retrieving snapshot for com.google.android.gms.playlog.uploader failed
+    java.util.concurrent.TimeoutException: Timed out waiting for Task
+        at boxp.m(:com.google.android.gms@224517040@22.45.17 (150700-490120723):6)
+        at bggs.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at bggs.i(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at bggs.f(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at com.google.android.gms.clearcut.init.ClearcutInitChimeraIntentService.b(:com.google.android.gms@224517040@22.45.17 (150700-490120723):5)
+        at xcm.onHandleIntent(:com.google.android.gms@224517040@22.45.17 (150700-490120723):8)
+        at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at xgx.onHandleIntent(:com.google.android.gms@224517040@22.45.17 (150700-490120723):4)
+        at gpi.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):3)
+        at gph.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):11)
+        at ckqk.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:00:27.683 9304-10324/? E/bgji: Phenotype API error. Event # dfdn@556fb09f, EventCode: 5 [CONTEXT service_id=51 ]
+    bgik: 29501: Stale snapshot for com.google.android.libraries.search.googleapp.device#com.google.android.googlequicksearchbox(change count changed - expected 19  but was 18)
+        at bgjn.b(:com.google.android.gms@224517040@22.45.17 (150700-490120723):14)
+        at bgjl.g(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at bgji.e(:com.google.android.gms@224517040@22.45.17 (150700-490120723):4)
+        at bgji.f(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at argn.eq(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at argt.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):12)
+        at ckqk.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at zwo.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):6)
+        at zwo.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):8)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at aabs.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:00:27.735 9493-10095/? E/BrdcstRcvrMsgr: SvcConn: binder null, could not send broadcast of action
+2022-12-04 02:00:27.927 9340-10536/? E/PhenotypeModule: PhenotypeModule.handlePhenotypeConfigurationUpdates():246 Get empty configurations.
+2022-12-04 02:00:27.971 9940-9960/? E/BugleRcsEngine: [156] xdj.a: File not found.: java.io.FileNotFoundException: /data/user/0/com.google.android.apps.messaging/files/httpft_pending: open failed: ENOENT (No such file or directory)
+        at libcore.io.IoBridge.open(IoBridge.java:492)
+        at java.io.FileInputStream.<init>(FileInputStream.java:160)
+        at android.app.ContextImpl.openFileInput(ContextImpl.java:636)
+        at android.content.ContextWrapper.openFileInput(ContextWrapper.java:216)
+        at xdj.a(PG:29)
+        at com.google.android.apps.messaging.rcsmigration.RcsStateProvider.buildRcsState(PG:34)
+        at com.google.android.apps.messaging.rcsmigration.RcsStateProvider.getRcsState(PG:45)
+        at com.google.android.ims.rcsmigration.IRcsStateProvider$Stub.dispatchTransaction(PG:8)
+        at com.google.android.aidl.BaseStub.onTransact(PG:7)
+        at android.os.Binder.execTransactInternal(Binder.java:1154)
+        at android.os.Binder.execTransact(Binder.java:1123)
+     Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+        at libcore.io.Linux.open(Native Method)
+        at libcore.io.ForwardingOs.open(ForwardingOs.java:166)
+        at libcore.io.BlockGuardOs.open(BlockGuardOs.java:254)
+        at libcore.io.ForwardingOs.open(ForwardingOs.java:166)
+        at android.app.ActivityThread$AndroidOs.open(ActivityThread.java:7542)
+        at libcore.io.IoBridge.open(IoBridge.java:478)
+        at java.io.FileInputStream.<init>(FileInputStream.java:160) 
+        at android.app.ContextImpl.openFileInput(ContextImpl.java:636) 
+        at android.content.ContextWrapper.openFileInput(ContextWrapper.java:216) 
+        at xdj.a(PG:29) 
+        at com.google.android.apps.messaging.rcsmigration.RcsStateProvider.buildRcsState(PG:34) 
+        at com.google.android.apps.messaging.rcsmigration.RcsStateProvider.getRcsState(PG:45) 
+        at com.google.android.ims.rcsmigration.IRcsStateProvider$Stub.dispatchTransaction(PG:8) 
+        at com.google.android.aidl.BaseStub.onTransact(PG:7) 
+        at android.os.Binder.execTransactInternal(Binder.java:1154) 
+        at android.os.Binder.execTransact(Binder.java:1123) 
+2022-12-04 02:00:28.178 8690-8731/? E/libprocessgroup: AddTidToCgroup failed to write '10551'; fd=60: Invalid argument
+2022-12-04 02:00:28.178 8690-8731/? E/libprocessgroup: Failed to add task into cgroup
+2022-12-04 02:00:28.335 10159-10507/? E/CarrierServices: [204] ecr.a: Invalid signature found for com.android.contacts: 18B66F4996F3D01CEAD29D3A3AA81801E7950B82
+2022-12-04 02:00:28.545 9623-10025/? E/GoogleTagManager: Invalid macro: _gtm.loadEventEnabled
+2022-12-04 02:00:28.667 10159-10507/? E/CarrierServices: [204] ecr.a: Invalid signature found for com.android.contacts: 18B66F4996F3D01CEAD29D3A3AA81801E7950B82
+2022-12-04 02:00:29.065 9623-10560/? E/GoogleTagManager: Invalid macro: _gtm.loadEventEnabled
+2022-12-04 02:00:29.163 9940-10087/? E/BugleNetwork: TachyonPhoneRegistration: Failed to ensure tachyon registration
+    java.lang.IllegalArgumentException: normalizedPhoneNumber is empty
+        at jyd.<init>(PG:3)
+        at jye.a(PG:5)
+        at jlc.a(Unknown Source:8)
+        at afoy.a(PG:3)
+        at ailz.a(PG:3)
+        at aima.run(PG:23)
+        at aino.execute(PG:3)
+        at ailw.b(PG:77)
+        at ailw.a(PG:76)
+        at ailw.b(PG:172)
+        at aipx.a(PG:3)
+        at aiox.run(PG:21)
+        at aipy.run(PG:12)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at aesr.run(Unknown Source:4)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:00:29.447 9940-10087/? E/BugleNetwork: Failed to ensure Tachyon phone registration.
+    java.lang.IllegalArgumentException: normalizedPhoneNumber is empty
+        at jyd.<init>(PG:3)
+        at jye.a(PG:5)
+        at jlc.a(Unknown Source:8)
+        at afoy.a(PG:3)
+        at ailz.a(PG:3)
+        at aima.run(PG:23)
+        at aino.execute(PG:3)
+        at ailw.b(PG:77)
+        at ailw.a(PG:76)
+        at ailw.b(PG:172)
+        at aipx.a(PG:3)
+        at aiox.run(PG:21)
+        at aipy.run(PG:12)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at aesr.run(Unknown Source:4)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:00:29.673 9623-10139/? E/GoogleTagManager: Unsupported Value Escaping: 3
+2022-12-04 02:00:29.891 9623-10139/? E/GoogleTagManager: Unsupported Value Escaping: 3
+2022-12-04 02:00:29.952 10597-10597/? E/upwizard:remot: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:29.986 9623-10139/? E/GoogleTagManager: Unsupported Value Escaping: 3
+2022-12-04 02:00:30.140 9648-9911/? E/BistoWorker: Couldn't get logged in Google account.
+2022-12-04 02:00:30.376 9304-9304/? E/GmsCoreLogger: Usage reporting check failed [CONTEXT service_id=299 ]
+    java.util.concurrent.ExecutionException: java.util.concurrent.TimeoutException
+        at cqmt.s(:com.google.android.gms@224517040@22.45.17 (150700-490120723):3)
+        at cqmt.get(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at cqqs.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at cqpj.r(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at aqht.f(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at aqhq.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at cqpb.call(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at cqoe.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at cqpp.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):3)
+        at cqoh.execute(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at cqof.f(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at cqog.q(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at cqnb.g(:com.google.android.gms@224517040@22.45.17 (150700-490120723):5)
+        at cqmz.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at cqoh.execute(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at cqmt.q(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at cqmt.j(:com.google.android.gms@224517040@22.45.17 (150700-490120723):9)
+        at cqmt.n(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at buxl.iI(:com.google.android.gms@224517040@22.45.17 (150700-490120723):4)
+        at bowg.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at zvw.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at akqa.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at cqoh.execute(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at akqb.execute(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at bowh.is(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at boww.b(:com.google.android.gms@224517040@22.45.17 (150700-490120723):5)
+        at bowy.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):5)
+        at boxh.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at android.os.Handler.handleCallback(Handler.java:938)
+        at android.os.Handler.dispatchMessage(Handler.java:99)
+        at arlf.kZ(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at arlf.dispatchMessage(:com.google.android.gms@224517040@22.45.17 (150700-490120723):11)
+        at android.os.Looper.loop(Looper.java:223)
+        at android.app.ActivityThread.main(ActivityThread.java:7656)
+        at java.lang.reflect.Method.invoke(Native Method)
+        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:592)
+        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:947)
+     Caused by: java.util.concurrent.TimeoutException
+        at boxh.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0) 
+        at android.os.Handler.handleCallback(Handler.java:938) 
+        at android.os.Handler.dispatchMessage(Handler.java:99) 
+        at arlf.kZ(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0) 
+        at arlf.dispatchMessage(:com.google.android.gms@224517040@22.45.17 (150700-490120723):11) 
+        at android.os.Looper.loop(Looper.java:223) 
+        at android.app.ActivityThread.main(ActivityThread.java:7656) 
+        at java.lang.reflect.Method.invoke(Native Method) 
+        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:592) 
+        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:947) 
+2022-12-04 02:00:30.584 10628-10628/? E/id.gms.unstabl: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:31.363 9493-10095/? E/A: Calling getConfiguration() before NgaConfigurationManager is initialized.
+    com.google.common.f.s: MEDIUM
+        at com.google.android.apps.gsa.nga.engine.g.a.ar.b(PG:2)
+        at com.google.android.apps.gsa.nga.engine.z.m.gC(PG:1)
+        at com.google.android.apps.gsa.nga.engine.v.f.a(PG:1)
+        at com.google.android.apps.gsa.nga.engine.v.f.T(PG:1)
+        at com.google.android.apps.gsa.nga.engine.v.o.X(PG:2)
+        at com.google.android.apps.gsa.nga.engine.v.o.gE(PG:2)
+        at com.google.android.apps.gsa.nga.engine.as.b.a(Unknown Source:4)
+        at com.google.android.apps.gsa.nga.shared.t.g.a(PG:1)
+        at com.google.android.apps.gsa.nga.shared.t.k.a(PG:2)
+        at com.google.android.libraries.gsa.k.a.j.call(PG:2)
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+        at com.google.common.util.concurrent.dp.run(PG:1)
+        at com.google.common.util.concurrent.dq.run(PG:4)
+        at com.google.android.libraries.i.ad.run(PG:1)
+        at com.google.android.libraries.i.al.run(PG:23)
+        at com.google.android.libraries.i.e.run(PG:2)
+        at com.google.android.libraries.i.p.run(PG:3)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:00:31.366 9493-10092/? E/A: Calling getConfiguration() before NgaConfigurationManager is initialized.
+    com.google.common.f.s: MEDIUM
+        at com.google.android.apps.gsa.nga.engine.g.a.ar.b(PG:2)
+        at com.google.android.apps.gsa.nga.engine.g.a.p.get(Unknown Source:2)
+        at com.google.android.apps.gsa.nga.shared.w.a.p.b(PG:1)
+        at com.google.android.apps.gsa.nga.shared.w.f.a.d.apply(Unknown Source:2)
+        at j$.util.Optional.map(Unknown Source:16)
+        at com.google.android.apps.gsa.nga.shared.w.f.a.g.a(PG:2)
+        at com.google.android.apps.gsa.staticplugins.opa.ak.c.b.p.apply(Unknown Source:2)
+        at j$.util.Optional.map(Unknown Source:16)
+        at com.google.android.apps.gsa.staticplugins.opa.ak.c.b.q.b(PG:10)
+        at com.google.android.apps.gsa.staticplugins.opa.ak.c.b.c.run(PG:17)
+        at com.google.android.libraries.gsa.k.a.h.run(PG:2)
+        at com.google.android.apps.gsa.shared.util.c.a.ce.b(PG:1)
+        at com.google.android.apps.gsa.shared.util.c.a.ch.run(PG:1)
+        at com.google.common.util.concurrent.dp.run(PG:1)
+        at com.google.common.util.concurrent.dq.run(PG:4)
+        at com.google.android.libraries.i.ad.run(PG:1)
+        at com.google.android.libraries.i.al.run(PG:23)
+        at com.google.android.libraries.i.e.run(PG:2)
+        at com.google.android.libraries.i.p.run(PG:3)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:00:31.374 9493-10095/? E/A: Calling getConfiguration() before NgaConfigurationManager is initialized.
+    com.google.common.f.s: MEDIUM
+        at com.google.android.apps.gsa.nga.engine.g.a.ar.b(PG:2)
+        at com.google.android.apps.gsa.nga.engine.v.j.gC(PG:1)
+        at com.google.android.apps.gsa.nga.engine.v.f.a(PG:1)
+        at com.google.android.apps.gsa.nga.engine.v.f.T(PG:1)
+        at com.google.android.apps.gsa.nga.engine.v.o.X(PG:2)
+        at com.google.android.apps.gsa.nga.engine.v.o.gE(PG:2)
+        at com.google.android.apps.gsa.nga.engine.as.b.a(Unknown Source:4)
+        at com.google.android.apps.gsa.nga.shared.t.g.a(PG:1)
+        at com.google.android.apps.gsa.nga.shared.t.k.a(PG:2)
+        at com.google.android.libraries.gsa.k.a.j.call(PG:2)
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+        at com.google.common.util.concurrent.dp.run(PG:1)
+        at com.google.common.util.concurrent.dq.run(PG:4)
+        at com.google.android.libraries.i.ad.run(PG:1)
+        at com.google.android.libraries.i.al.run(PG:23)
+        at com.google.android.libraries.i.e.run(PG:2)
+        at com.google.android.libraries.i.p.run(PG:3)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:00:31.375 9493-10095/? E/A: Calling getConfiguration() before NgaConfigurationManager is initialized.
+    com.google.common.f.s: MEDIUM
+        at com.google.android.apps.gsa.nga.engine.g.a.ar.b(PG:2)
+        at com.google.android.apps.gsa.nga.engine.education.a.y.gC(PG:1)
+        at com.google.android.apps.gsa.nga.engine.v.f.a(PG:1)
+        at com.google.android.apps.gsa.nga.engine.v.f.T(PG:1)
+        at com.google.android.apps.gsa.nga.engine.v.o.X(PG:2)
+        at com.google.android.apps.gsa.nga.engine.v.o.gE(PG:2)
+        at com.google.android.apps.gsa.nga.engine.as.b.a(Unknown Source:4)
+        at com.google.android.apps.gsa.nga.shared.t.g.a(PG:1)
+        at com.google.android.apps.gsa.nga.shared.t.k.a(PG:2)
+        at com.google.android.libraries.gsa.k.a.j.call(PG:2)
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+        at com.google.common.util.concurrent.dp.run(PG:1)
+        at com.google.common.util.concurrent.dq.run(PG:4)
+        at com.google.android.libraries.i.ad.run(PG:1)
+        at com.google.android.libraries.i.al.run(PG:23)
+        at com.google.android.libraries.i.e.run(PG:2)
+        at com.google.android.libraries.i.p.run(PG:3)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:00:31.377 9493-10095/? E/A: Calling getConfiguration() before NgaConfigurationManager is initialized.
+    com.google.common.f.s: MEDIUM
+        at com.google.android.apps.gsa.nga.engine.g.a.ar.b(PG:2)
+        at com.google.android.apps.gsa.nga.engine.o.e.bj.gC(PG:1)
+        at com.google.android.apps.gsa.nga.engine.v.f.a(PG:1)
+        at com.google.android.apps.gsa.nga.engine.v.f.T(PG:1)
+        at com.google.android.apps.gsa.nga.engine.v.o.X(PG:2)
+        at com.google.android.apps.gsa.nga.engine.v.o.gE(PG:2)
+        at com.google.android.apps.gsa.nga.engine.as.b.a(Unknown Source:4)
+        at com.google.android.apps.gsa.nga.shared.t.g.a(PG:1)
+        at com.google.android.apps.gsa.nga.shared.t.k.a(PG:2)
+        at com.google.android.libraries.gsa.k.a.j.call(PG:2)
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+        at com.google.common.util.concurrent.dp.run(PG:1)
+        at com.google.common.util.concurrent.dq.run(PG:4)
+        at com.google.android.libraries.i.ad.run(PG:1)
+        at com.google.android.libraries.i.al.run(PG:23)
+        at com.google.android.libraries.i.e.run(PG:2)
+        at com.google.android.libraries.i.p.run(PG:3)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:00:31.377 9493-10095/? E/A: Calling getConfiguration() before NgaConfigurationManager is initialized.
+    com.google.common.f.s: MEDIUM
+        at com.google.android.apps.gsa.nga.engine.g.a.ar.b(PG:2)
+        at com.google.android.apps.gsa.nga.engine.education.pie.d.a.gC(PG:1)
+        at com.google.android.apps.gsa.nga.engine.v.f.a(PG:1)
+        at com.google.android.apps.gsa.nga.engine.v.f.T(PG:1)
+        at com.google.android.apps.gsa.nga.engine.v.o.X(PG:2)
+        at com.google.android.apps.gsa.nga.engine.v.o.gE(PG:2)
+        at com.google.android.apps.gsa.nga.engine.as.b.a(Unknown Source:4)
+        at com.google.android.apps.gsa.nga.shared.t.g.a(PG:1)
+        at com.google.android.apps.gsa.nga.shared.t.k.a(PG:2)
+        at com.google.android.libraries.gsa.k.a.j.call(PG:2)
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+        at com.google.common.util.concurrent.dp.run(PG:1)
+        at com.google.common.util.concurrent.dq.run(PG:4)
+        at com.google.android.libraries.i.ad.run(PG:1)
+        at com.google.android.libraries.i.al.run(PG:23)
+        at com.google.android.libraries.i.e.run(PG:2)
+        at com.google.android.libraries.i.p.run(PG:3)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:00:31.383 9493-10095/? E/A: Calling getConfiguration() before NgaConfigurationManager is initialized.
+    com.google.common.f.s: MEDIUM
+        at com.google.android.apps.gsa.nga.engine.g.a.ar.b(PG:2)
+        at com.google.android.apps.gsa.nga.engine.v.j.gC(PG:1)
+        at com.google.android.apps.gsa.nga.engine.v.f.a(PG:1)
+        at com.google.android.apps.gsa.nga.engine.v.f.T(PG:1)
+        at com.google.android.apps.gsa.nga.engine.v.o.X(PG:2)
+        at com.google.android.apps.gsa.nga.engine.v.o.gE(PG:2)
+        at com.google.android.apps.gsa.nga.engine.as.b.a(Unknown Source:4)
+        at com.google.android.apps.gsa.nga.shared.t.g.a(PG:1)
+        at com.google.android.apps.gsa.nga.shared.t.k.a(PG:2)
+        at com.google.android.libraries.gsa.k.a.j.call(PG:2)
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+        at com.google.common.util.concurrent.dp.run(PG:1)
+        at com.google.common.util.concurrent.dq.run(PG:4)
+        at com.google.android.libraries.i.ad.run(PG:1)
+        at com.google.android.libraries.i.al.run(PG:23)
+        at com.google.android.libraries.i.e.run(PG:2)
+        at com.google.android.libraries.i.p.run(PG:3)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:00:31.387 9493-10095/? E/A: Calling getConfiguration() before NgaConfigurationManager is initialized.
+    com.google.common.f.s: MEDIUM
+        at com.google.android.apps.gsa.nga.engine.g.a.ar.b(PG:2)
+        at com.google.android.apps.gsa.nga.engine.recognition.m.a.s.k(PG:4)
+        at com.google.android.apps.gsa.nga.engine.recognition.m.a.s.gE(PG:3)
+        at com.google.android.apps.gsa.nga.engine.as.b.a(Unknown Source:4)
+        at com.google.android.apps.gsa.nga.shared.t.g.a(PG:1)
+        at com.google.android.apps.gsa.nga.shared.t.k.a(PG:2)
+        at com.google.android.libraries.gsa.k.a.j.call(PG:2)
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+        at com.google.common.util.concurrent.dp.run(PG:1)
+        at com.google.common.util.concurrent.dq.run(PG:4)
+        at com.google.android.libraries.i.ad.run(PG:1)
+        at com.google.android.libraries.i.al.run(PG:23)
+        at com.google.android.libraries.i.e.run(PG:2)
+        at com.google.android.libraries.i.p.run(PG:3)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:00:31.511 9648-9922/? E/libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+2022-12-04 02:00:31.611 9493-9493/? E/VS.BluetoothShim: Error locating SCO method
+    java.lang.NoSuchMethodException: android.bluetooth.BluetoothHeadset.startScoUsingVirtualVoiceCall [class android.bluetooth.BluetoothDevice]
+        at java.lang.Class.getMethod(Class.java:2072)
+        at java.lang.Class.getMethod(Class.java:1693)
+        at com.google.android.apps.gsa.speech.audio.a.l.<clinit>(PG:1)
+        at com.google.android.apps.gsa.speech.audio.a.i.onServiceConnected(PG:1)
+        at android.bluetooth.BluetoothHeadset$3.handleMessage(BluetoothHeadset.java:1258)
+        at android.os.Handler.dispatchMessage(Handler.java:106)
+        at android.os.Looper.loop(Looper.java:223)
+        at android.app.ActivityThread.main(ActivityThread.java:7656)
+        at java.lang.reflect.Method.invoke(Native Method)
+        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:592)
+        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:947)
+2022-12-04 02:00:31.803 9940-10228/? E/GnpSdk: [PhenotypeManagerImpl] Phenotype registration timed out [com.google.android.libraries.internal.growth.growthkit#com.google.android.apps.messaging].
+2022-12-04 02:00:33.438 10723-10723/? E/id.apps.tachyo: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:00:34.539 468-468/? E/netmgr: qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:network' service: Invalid argument
+2022-12-04 02:00:34.540 468-468/? E/netmgr: Failed to open QEMU pipe 'qemud:network': Invalid argument
+2022-12-04 02:00:37.382 9304-10324/? E/bgji: Phenotype API error. Event # dfdn@a795a1c5, EventCode: 5 [CONTEXT service_id=51 ]
+    bgik: 29501: Stale snapshot for com.google.android.libraries.search.googleapp.device#com.google.android.googlequicksearchbox(change count changed - expected 19  but was 18)
+        at bgjn.b(:com.google.android.gms@224517040@22.45.17 (150700-490120723):14)
+        at bgjl.g(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at bgji.e(:com.google.android.gms@224517040@22.45.17 (150700-490120723):4)
+        at bgji.f(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at argn.eq(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at argt.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):12)
+        at ckqk.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at zwo.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):6)
+        at zwo.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):8)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at aabs.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:00:37.891 9648-10671/? E/BistoWorker: Couldn't get logged in Google account.
+2022-12-04 02:00:39.872 9304-10258/? E/bgji: Phenotype API error. Event # dfdn@7f2fa32, EventCode: 5 [CONTEXT service_id=51 ]
+    bgik: 29501: Stale snapshot for assistant_auto_tng_libraries_device#com.google.android.googlequicksearchbox(change count changed - expected 13  but was 12)
+        at bgjn.b(:com.google.android.gms@224517040@22.45.17 (150700-490120723):14)
+        at bgjl.g(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at bgji.e(:com.google.android.gms@224517040@22.45.17 (150700-490120723):4)
+        at bgji.f(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at argn.eq(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at argt.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):12)
+        at ckqk.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at zwo.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):6)
+        at zwo.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):8)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at aabs.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:00:40.951 9304-10324/? E/bgji: Phenotype API error. Event # dfdn@711d6944, EventCode: 5 [CONTEXT service_id=51 ]
+    bgik: 29501: Stale snapshot for assistant_auto_tng_libraries_user#com.google.android.googlequicksearchbox(change count changed - expected 10  but was 9)
+        at bgjn.b(:com.google.android.gms@224517040@22.45.17 (150700-490120723):14)
+        at bgjl.g(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at bgji.e(:com.google.android.gms@224517040@22.45.17 (150700-490120723):4)
+        at bgji.f(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at argn.eq(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at argt.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):12)
+        at ckqk.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at zwo.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):6)
+        at zwo.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):8)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at aabs.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:00:40.971 8848-9232/? E/bt_btm: BTM_BleObserve Observe Already Active
+2022-12-04 02:00:40.997 9304-10324/? E/bgji: Phenotype API error. Event # dfdn@5dab5494, EventCode: 5 [CONTEXT service_id=51 ]
+    bgik: 29501: Stale snapshot for com.google.android.apps.search.assistant.platform.ondevice.fulfillment.server.pop.user#com.google.android.googlequicksearchbox(change count changed - expected 12  but was 11)
+        at bgjn.b(:com.google.android.gms@224517040@22.45.17 (150700-490120723):14)
+        at bgjl.g(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at bgji.e(:com.google.android.gms@224517040@22.45.17 (150700-490120723):4)
+        at bgji.f(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at argn.eq(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at argt.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):12)
+        at ckqk.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at zwo.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):6)
+        at zwo.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):8)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at aabs.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:00:41.172 9304-10324/? E/bgji: Phenotype API error. Event # dfdn@fdd441dc, EventCode: 5 [CONTEXT service_id=51 ]
+    bgik: 29501: Stale snapshot for com.google.ar.sceneviewer.android.user#com.google.android.googlequicksearchbox(change count changed - expected 3  but was 2)
+        at bgjn.b(:com.google.android.gms@224517040@22.45.17 (150700-490120723):14)
+        at bgjl.g(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at bgji.e(:com.google.android.gms@224517040@22.45.17 (150700-490120723):4)
+        at bgji.f(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at argn.eq(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at argt.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):12)
+        at ckqk.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at zwo.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):6)
+        at zwo.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):8)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at aabs.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:00:41.476 9304-10258/? E/bgji: Phenotype API error. Event # dfdn@1cd31a8f, EventCode: 5 [CONTEXT service_id=51 ]
+    bgik: 29501: Stale snapshot for assistant_auto_tng_libraries_user#com.google.android.googlequicksearchbox(change count changed - expected 10  but was 9)
+        at bgjn.b(:com.google.android.gms@224517040@22.45.17 (150700-490120723):14)
+        at bgjl.g(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at bgji.e(:com.google.android.gms@224517040@22.45.17 (150700-490120723):4)
+        at bgji.f(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at argn.eq(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at argt.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):12)
+        at ckqk.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at zwo.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):6)
+        at zwo.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):7)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at aabs.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:00:41.709 9304-10324/? E/bgji: Phenotype API error. Event # dfdn@fd340aaf, EventCode: 5 [CONTEXT service_id=51 ]
+    bgik: 29501: Stale snapshot for com.google.ar.sceneviewer.android.user#com.google.android.googlequicksearchbox(change count changed - expected 3  but was 2)
+        at bgjn.b(:com.google.android.gms@224517040@22.45.17 (150700-490120723):14)
+        at bgjl.g(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at bgji.e(:com.google.android.gms@224517040@22.45.17 (150700-490120723):4)
+        at bgji.f(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at argn.eq(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at argt.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):12)
+        at ckqk.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at zwo.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):6)
+        at zwo.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):7)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at aabs.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:00:41.721 9304-10324/? E/bgji: Phenotype API error. Event # dfdn@b1f5a349, EventCode: 5 [CONTEXT service_id=51 ]
+    bgik: 29501: Stale snapshot for com.google.android.apps.search.assistant.platform.ondevice.fulfillment.server.pop.user#com.google.android.googlequicksearchbox(change count changed - expected 12  but was 11)
+        at bgjn.b(:com.google.android.gms@224517040@22.45.17 (150700-490120723):14)
+        at bgjl.g(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at bgji.e(:com.google.android.gms@224517040@22.45.17 (150700-490120723):4)
+        at bgji.f(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at argn.eq(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at argt.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):12)
+        at ckqk.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at zwo.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):6)
+        at zwo.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):7)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at aabs.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:00:46.233 9304-10324/? E/WakeLock: FusedLocation ** IS FORCE-RELEASED ON TIMEOUT **
+2022-12-04 02:00:46.664 474-474/? E/wifi_forwarder: qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:wififorward' service: Invalid argument
+2022-12-04 02:00:46.665 474-474/? E/wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+2022-12-04 02:01:01.769 9648-9648/? E/A: (REDACTED) disposing SearchServiceClient after timeout %s
+2022-12-04 02:01:26.253 10864-10864/? A/crash_dump32: crash_dump.cpp:474] failed to attach to thread 176: Permission denied
+2022-12-04 02:01:26.256 176-176/? A/libc: crash_dump helper failed to exec
+2022-12-04 02:01:27.745 8690-10861/? E/ActivityManager: ANR in com.android.systemui
+    PID: 8867
+    Reason: Broadcast of Intent { act=android.intent.action.BOOT_COMPLETED flg=0x89000010 (has extras) }
+    Load: 6.11 / 2.96 / 1.18
+    ----- Output from /proc/pressure/memory -----
+    some avg10=0.03 avg60=0.74 avg300=0.33 total=203715532
+    full avg10=0.00 avg60=0.01 avg300=0.00 total=51601324
+    ----- End output from /proc/pressure/memory -----
+    
+    CPU usage from 59815ms to 0ms ago (2022-12-03 23:00:24.445 to 2022-12-03 23:01:24.259):
+      29% 9304/com.google.android.gms.persistent: 6.6% user + 22% kernel / faults: 57990 minor 77 major
+      14% 9648/com.google.android.googlequicksearchbox:search: 3.7% user + 10% kernel / faults: 36490 minor 144 major
+      12% 8690/system_server: 1.3% user + 11% kernel / faults: 6620 minor 309 major
+      5.9% 9623/com.google.android.apps.youtube.music: 1.7% user + 4.1% kernel / faults: 14903 minor 3 major
+      5.6% 9742/com.google.android.gms: 1.5% user + 4.1% kernel / faults: 12956 minor 76 major
+      4.3% 9940/com.google.android.apps.messaging: 1.1% user + 3.2% kernel / faults: 9103 minor 18 major
+      4.2% 305/android.hardware.bluetooth@1.1-service.sim: 0% user + 4.1% kernel / faults: 2 minor
+      2.6% 10159/com.google.android.ims: 0.6% user + 2% kernel / faults: 6326 minor 52 major
+      2.5% 9670/com.google.android.youtube: 0.8% user + 1.6% kernel / faults: 2458 minor 4 major
+      2.5% 9363/com.google.android.apps.wellbeing: 0.6% user + 1.8% kernel / faults: 8622 minor 305 major
+      2.4% 9493/com.google.android.googlequicksearchbox:interactor: 0.6% user + 1.8% kernel / faults: 6447 minor 13 major
+      1.2% 89/kswapd0: 0% user + 1.2% kernel
+      1% 318/android.hardware.graphics.composer@2.3-service: 0% user + 1% kernel
+      0.9% 1970/adbd: 0% user + 0.9% kernel
+      0.9% 9113/com.android.phone: 0.1% user + 0.7% kernel / faults: 1090 minor 2 major
+      0.8% 327/android.hardware.sensors@2.1-service.multihal: 0% user + 0.7% kernel / faults: 1 minor
+      0.7% 9177/com.google.android.apps.nexuslauncher: 0.2% user + 0.5% kernel / faults: 3164 minor 13 major
+      0.6% 9467/com.google.process.gservices: 0.1% user + 0.5% kernel / faults: 802 minor
+      0.6% 9/ksoftirqd/0: 0% user + 0.6% kernel
+      0.6% 21/ksoftirqd/2: 0% user + 0.6% kernel
+      0.6% 26/ksoftirqd/3: 0% user + 0.6% kernel
+      0.6% 171/logd: 0% user + 0.6% kernel / faults: 3 minor 3 major
+      0.4% 16/ksoftirqd/1: 0% user + 0.4% kernel
+      0.4% 8848/com.android.bluetooth: 0% user + 0.4% kernel / faults: 386 minor 4 major
+      0.4% 212/jbd2/dm-5-8: 0% user + 0.4% kernel
+      0.3% 6247/transport: 0% user + 0.3% kernel
+      0.3% 10/rcu_preempt: 0% user + 0.3% kernel
+      0.3% 8715/audioserver: 0% user + 0.2% kernel / faults: 15 minor
+      0.2% 5360/kworker/u8:0-kverityd: 0% user + 0.2% kernel
+      0.2% 8148/kworker/u8:4-events_unbound: 0% user + 0.2% kernel
+      0.2% 295/statsd: 0% user + 0.2% kernel / faults: 16 minor 1 major
+      0.2% 7453/kworker/u9:3-fscrypt_read_queue: 0% user + 0.2% kernel
+      0.2% 9779/android.process.acore: 0% user + 0.1% kernel / faults: 856 minor
+      0.2% 378/logcat: 0% user + 0.2% kernel
+      0.2% 8067/kworker/u8:3-kverityd: 0% user + 0.2% kernel
+      0.1% 7228/kworker/u9:2-fscrypt_read_queue: 0% user + 0.1% kernel
+      0.1% 8490/logcat: 0% user + 0.1% kernel / faults: 7 minor
+      0.1% 172/lmkd: 0% user + 0.1% kernel
+      0.1% 173/servicemanager: 0% user + 0.1% kernel
+      0.1% 8158/kworker/u9:0-blk_crypto_wq: 0% user + 0.1% kernel
+      0.1% 8653/netd: 0% user + 0.1% kernel / faults: 100 minor
+      0% 362/surfaceflinger: 0% user + 0% kernel
+      0% 489/dhcpclient: 0% user + 0% kernel
+      0% 8648/zygote: 0% user + 0% kernel / faults: 633 minor
+      0% 9150/com.google.android.ext.services: 0% user + 0% kernel / faults: 426 minor
+      0% 9340/com.google.android.inputmethod.latin: 0% user + 0% kernel / faults: 274 minor 1 major
+      0% 143/kworker/0:1H-kblockd: 0% user + 0% kernel
+      0% 8657/kworker/1:3-cgroup_destroy: 0% user + 0% kernel
+      0% 131/kworker/1:1H-kblockd: 0% user + 0% kernel
+      0% 5699/kworker/u8:1+kverityd: 0% user + 0% kernel
+      0% 7885/kworker/0:2-events: 0% user + 0% kernel
+2022-12-04 02:01:27.745 8690-10861/? E/ActivityManager:   0% 8867/com.android.systemui: 0% user + 0% kernel / faults: 180 minor
+      0% 9023/com.android.networkstack.process: 0% user + 0% kernel / faults: 36 minor 1 major
+      0% 1/init: 0% user + 0% kernel
+      0% 122/kworker/3:1H-kblockd: 0% user + 0% kernel
+      0% 451/libgoldfish-rild: 0% user + 0% kernel / faults: 6 minor
+      0% 8756/kworker/3:5-cgroup_destroy: 0% user + 0% kernel
+      0% 9600/com.android.dialer: 0% user + 0% kernel / faults: 160 minor
+      0% 9789/com.google.process.gapps: 0% user + 0% kernel / faults: 162 minor
+      0% 10193/com.android.printspooler: 0% user + 0% kernel / faults: 183 minor
+      0% 25/migration/3: 0% user + 0% kernel
+      0% 254/loop17: 0% user + 0% kernel
+      0% 319/android.hardware.health@2.1-service: 0% user + 0% kernel
+      0% 407/traced: 0% user + 0% kernel
+      0% 416/installd: 0% user + 0% kernel / faults: 144 minor 1 major
+      0% 418/iorapd: 0% user + 0% kernel / faults: 3 major
+      0% 474/wifi_forwarder: 0% user + 0% kernel
+      0% 8030/kworker/2:0-cgroup_destroy: 0% user + 0% kernel
+      0% 8650/cameraserver: 0% user + 0% kernel
+      0% 8970/android.hardware.gnss@2.0-service.ranchu: 0% user + 0% kernel
+      0% 9964/com.android.localtransport: 0% user + 0% kernel / faults: 157 minor
+      0% 10227/com.android.keychain: 0% user + 0% kernel / faults: 147 minor
+     +0% 10429/com.google.android.gms.ui: 0% user + 0% kernel
+     +0% 10571/kworker/u9:1-fscrypt_read_queue: 0% user + 0% kernel
+     +0% 10597/com.google.android.setupwizard:remote: 0% user + 0% kernel
+     +0% 10628/com.google.android.gms.unstable: 0% user + 0% kernel
+     +0% 10723/com.google.android.apps.tachyon: 0% user + 0% kernel
+    27% TOTAL: 5.9% user + 20% kernel + 0.3% iowait + 0.6% softirq
+    CPU usage from 48ms to 539ms later (2022-12-03 23:01:24.308 to 2022-12-03 23:01:24.798):
+      52% 8690/system_server: 2.5% user + 50% kernel / faults: 406 minor
+        45% 10861/AnrConsumer: 2.5% user + 42% kernel
+        2.5% 8690/Binder:8690_3: 0% user + 2.5% kernel
+        2.5% 8706/android.ui: 0% user + 2.5% kernel
+      4.4% 305/android.hardware.bluetooth@1.1-service.sim: 0% user + 4.4% kernel
+        4.4% 1224/bluetooth@1.1-s: 0% user + 4.4% kernel
+      2% 26/ksoftirqd/3: 0% user + 2% kernel
+      2.2% 318/android.hardware.graphics.composer@2.3-service: 0% user + 2.2% kernel
+        2.2% 374/: 0% user + 2.2% kernel
+    15% TOTAL: 1.5% user + 13% kernel
+2022-12-04 02:01:27.907 10915-10915/? E/d.process.medi: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:28.291 10945-10945/? E/android.camera: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:28.320 8690-8705/? E/GnssLocationProvider: IGnssConfiguration setEsExtensionSec() failed.
+2022-12-04 02:01:28.320 8690-8705/? E/GnssConfiguration: Unable to set ES_EXTENSION_SEC: 0
+2022-12-04 02:01:28.445 9304-10852/? E/ActivityThread: Failed to find provider info for instantapp-dev-manager
+2022-12-04 02:01:28.476 10969-10969/? E/ndroid.contact: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:28.704 10991-10991/? E/droid.dynsyste: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:28.789 11010-11010/? E/gedprovisionin: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:28.944 11031-11031/? E/viders.calenda: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:29.093 11054-11054/? E/ndroid.setting: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:29.211 11074-11074/? E/m.android.shel: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:29.374 11096-11096/? E/android.traceu: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:29.515 11118-11118/? E/android.vendin: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:30.172 11118-11159/? E/Finsky: [269] gmw.aB(7): Unexpected error occurred
+2022-12-04 02:01:30.216 11118-11159/? E/Finsky: [269] gmw.aB(7): Unexpected error occurred
+2022-12-04 02:01:30.256 11118-11159/? E/Finsky: [269] gmw.aB(7): Unexpected error occurred
+2022-12-04 02:01:30.381 11193-11193/? E/droid.apps.doc: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:31.032 9113-9394/? E/DatabaseUtils: Writing exception to parcel
+    java.lang.SecurityException: No permission to access APN settings
+        at com.android.providers.telephony.TelephonyProvider.checkPermission(TelephonyProvider.java:3947)
+        at com.android.providers.telephony.TelephonyProvider.checkPermissionCompat(TelephonyProvider.java:3964)
+        at com.android.providers.telephony.TelephonyProvider.query(TelephonyProvider.java:2927)
+        at android.content.ContentProvider.query(ContentProvider.java:1379)
+        at android.content.ContentProvider.query(ContentProvider.java:1475)
+        at android.content.ContentProvider$Transport.query(ContentProvider.java:278)
+        at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:106)
+        at android.os.Binder.execTransactInternal(Binder.java:1154)
+        at android.os.Binder.execTransact(Binder.java:1123)
+2022-12-04 02:01:31.100 11229-11229/? E/e.process.gapp: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:31.976 11293-11293/? E/ding:backgroun: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:32.281 11293-11323/? E/Finsky:background: [272] gke.a(45): Future execution failed.
+    java.lang.IllegalArgumentException: Empty argument value
+        at ijf.d(PG:2)
+        at ijf.q(Unknown Source:1)
+        at ijf.h(Unknown Source:2)
+        at jzj.d(PG:2)
+        at jyv.a(PG:50)
+        at ajtg.e(PG:2)
+        at ajti.run(PG:9)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at hul.run(PG:16)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:01:32.387 11331-11331/? E/droid.apps.map: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:34.192 11398-11398/? E/s.messaging:rc: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:34.547 11431-11431/? E/oid.apps.photo: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:34.599 468-468/? E/netmgr: qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:network' service: Invalid argument
+2022-12-04 02:01:34.599 468-468/? E/netmgr: Failed to open QEMU pipe 'qemud:network': Invalid argument
+2022-12-04 02:01:35.254 11479-11479/? E/id.apps.tachyo: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:37.298 8690-8731/? E/libprocessgroup: AddTidToCgroup failed to write '11566'; fd=109: Invalid argument
+2022-12-04 02:01:37.298 8690-8731/? E/libprocessgroup: Failed to add task into cgroup
+2022-12-04 02:01:37.983 11567-11567/? E/.apps.wallpape: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:38.604 11597-11597/? E/s.youtube.musi: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:39.190 11597-11650/? E/GEL_DELAYED_EVENT_DEBUG: Failed delayed event dispatch, no dispatchers.
+2022-12-04 02:01:39.230 11597-11633/? E/AwarenessClientProvider: Account associated with identity was null
+2022-12-04 02:01:39.234 11597-11633/? E/AwarenessRouterSyncMgr: Exception while syncing fences
+    java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Account associated with identity was null
+        at zsp.a(PG:135)
+        at zsp.get(PG:82)
+        at zwj.a(PG:1)
+        at zuv.a(PG:4)
+        at fyf.run(Unknown Source:1)
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+        at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:301)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at pqt.run(PG:13)
+        at java.lang.Thread.run(Thread.java:923)
+     Caused by: java.lang.IllegalStateException: Account associated with identity was null
+        at fxj.a(Unknown Source:3)
+        at zsr.a(PG:3)
+        at zst.run(PG:23)
+        at zvn.run(PG:2)
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462) 
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266) 
+        at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:301) 
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167) 
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641) 
+        at pqt.run(PG:13) 
+        at java.lang.Thread.run(Thread.java:923) 
+2022-12-04 02:01:39.874 11696-11696/? E/ndroid.calenda: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:40.151 9113-9140/? E/DatabaseUtils: Writing exception to parcel
+    java.lang.SecurityException: No permission to access APN settings
+        at com.android.providers.telephony.TelephonyProvider.checkPermission(TelephonyProvider.java:3947)
+        at com.android.providers.telephony.TelephonyProvider.checkPermissionCompat(TelephonyProvider.java:3964)
+        at com.android.providers.telephony.TelephonyProvider.query(TelephonyProvider.java:2927)
+        at android.content.ContentProvider.query(ContentProvider.java:1379)
+        at android.content.ContentProvider.query(ContentProvider.java:1475)
+        at android.content.ContentProvider$Transport.query(ContentProvider.java:278)
+        at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:106)
+        at android.os.Binder.execTransactInternal(Binder.java:1154)
+        at android.os.Binder.execTransact(Binder.java:1123)
+2022-12-04 02:01:40.272 11118-11564/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:01:40.283 11118-11564/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:01:40.357 11118-11564/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:01:40.359 11118-11564/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:01:40.389 11118-11564/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:01:40.494 11118-11564/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:01:40.507 11118-11564/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:01:40.773 11118-11564/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:01:40.789 11118-11564/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:01:40.792 11118-11564/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:01:40.798 11118-11564/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:01:40.869 11118-11564/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:01:40.884 11118-11564/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:01:40.950 11118-11564/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:01:41.041 11597-11654/? E/GoogleTagManager: Invalid macro: _gtm.loadEventEnabled
+2022-12-04 02:01:41.156 11806-11806/? E/d.configupdate: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:41.301 11806-11806/? E/ConfigUpdater: ignoring update request
+2022-12-04 02:01:41.380 11806-11806/? E/ConfigUpdater: ignoring update request
+2022-12-04 02:01:41.432 11861-11861/? E/droid.deskcloc: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:41.456 11597-11804/? E/GoogleTagManager: Invalid macro: _gtm.loadEventEnabled
+2022-12-04 02:01:41.706 11597-11647/? E/GoogleTagManager: Unsupported Value Escaping: 3
+2022-12-04 02:01:41.824 11597-11647/? E/GoogleTagManager: Unsupported Value Escaping: 3
+2022-12-04 02:01:41.826 11895-11895/? E/ogle.android.g: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:41.837 11597-11647/? E/GoogleTagManager: Unsupported Value Escaping: 3
+2022-12-04 02:01:42.713 9304-10145/? E/AuthPII: [GoogleAccountDataServiceImpl] getToken() -> BAD_AUTHENTICATION. App: com.google.android.gms, Service: oauth2:https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/account.capabilities https://www.googleapis.com/auth/account.service_flags
+    yvq: Long live credential not available.
+        at kwj.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):8)
+        at kwp.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):3)
+        at kuw.l(:com.google.android.gms@224517040@22.45.17 (150700-490120723):47)
+        at kty.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):24)
+        at kud.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at kxc.b(:com.google.android.gms@224517040@22.45.17 (150700-490120723):3)
+        at kxc.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):7)
+        at ktf.hasFeatures(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at android.accounts.AbstractAccountAuthenticator$Transport.hasFeatures(AbstractAccountAuthenticator.java:311)
+        at android.accounts.IAccountAuthenticator$Stub.onTransact(IAccountAuthenticator.java:343)
+        at android.os.Binder.transact(Binder.java:1043)
+        at aqeg.onTransact(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at android.os.Binder.transact(Binder.java:1043)
+        at akpx.onTransact(:com.google.android.gms@224517040@22.45.17 (150700-490120723):17)
+        at android.os.Binder.execTransactInternal(Binder.java:1159)
+        at android.os.Binder.execTransact(Binder.java:1123)
+2022-12-04 02:01:42.715 9304-10145/? E/AuthPII: Message is Long live credential not available.
+    yvq: Long live credential not available.
+        at kwj.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):8)
+        at kwp.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):3)
+        at kuw.l(:com.google.android.gms@224517040@22.45.17 (150700-490120723):47)
+        at kty.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):24)
+        at kud.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at kxc.b(:com.google.android.gms@224517040@22.45.17 (150700-490120723):3)
+        at kxc.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):7)
+        at ktf.hasFeatures(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at android.accounts.AbstractAccountAuthenticator$Transport.hasFeatures(AbstractAccountAuthenticator.java:311)
+        at android.accounts.IAccountAuthenticator$Stub.onTransact(IAccountAuthenticator.java:343)
+        at android.os.Binder.transact(Binder.java:1043)
+        at aqeg.onTransact(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at android.os.Binder.transact(Binder.java:1043)
+        at akpx.onTransact(:com.google.android.gms@224517040@22.45.17 (150700-490120723):17)
+        at android.os.Binder.execTransactInternal(Binder.java:1159)
+        at android.os.Binder.execTransact(Binder.java:1123)
+2022-12-04 02:01:42.773 9304-9321/? E/AuthPII: [GoogleAccountDataServiceImpl] getToken() -> BAD_AUTHENTICATION. App: com.google.android.gms, Service: oauth2:https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/account.capabilities https://www.googleapis.com/auth/account.service_flags
+    yvq: Long live credential not available.
+        at kwj.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):8)
+        at kwp.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):3)
+        at kuw.l(:com.google.android.gms@224517040@22.45.17 (150700-490120723):47)
+        at kty.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):24)
+        at kud.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at kxc.b(:com.google.android.gms@224517040@22.45.17 (150700-490120723):3)
+        at kxc.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):7)
+        at ktf.hasFeatures(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at android.accounts.AbstractAccountAuthenticator$Transport.hasFeatures(AbstractAccountAuthenticator.java:311)
+        at android.accounts.IAccountAuthenticator$Stub.onTransact(IAccountAuthenticator.java:343)
+        at android.os.Binder.transact(Binder.java:1043)
+        at aqeg.onTransact(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at android.os.Binder.transact(Binder.java:1043)
+        at akpx.onTransact(:com.google.android.gms@224517040@22.45.17 (150700-490120723):17)
+        at android.os.Binder.execTransactInternal(Binder.java:1159)
+        at android.os.Binder.execTransact(Binder.java:1123)
+2022-12-04 02:01:42.773 9304-9321/? E/AuthPII: Message is Long live credential not available.
+    yvq: Long live credential not available.
+        at kwj.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):8)
+        at kwp.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):3)
+        at kuw.l(:com.google.android.gms@224517040@22.45.17 (150700-490120723):47)
+        at kty.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):24)
+        at kud.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at kxc.b(:com.google.android.gms@224517040@22.45.17 (150700-490120723):3)
+        at kxc.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):7)
+        at ktf.hasFeatures(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at android.accounts.AbstractAccountAuthenticator$Transport.hasFeatures(AbstractAccountAuthenticator.java:311)
+        at android.accounts.IAccountAuthenticator$Stub.onTransact(IAccountAuthenticator.java:343)
+        at android.os.Binder.transact(Binder.java:1043)
+        at aqeg.onTransact(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at android.os.Binder.transact(Binder.java:1043)
+        at akpx.onTransact(:com.google.android.gms@224517040@22.45.17 (150700-490120723):17)
+        at android.os.Binder.execTransactInternal(Binder.java:1159)
+        at android.os.Binder.execTransact(Binder.java:1123)
+2022-12-04 02:01:43.248 11981-11981/? E/.android.chrom: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:43.984 9648-11989/? E/BistoWorker: Couldn't get logged in Google account.
+2022-12-04 02:01:44.520 9648-9648/? E/A: onError
+    com.google.android.apps.gsa.shared.speech.a.m: errorCode: 65561, engine: 2
+        at com.google.android.apps.gsa.staticplugins.cy.a.f.a(PG:3)
+        at com.google.android.apps.gsa.s3.o.gR(PG:1)
+        at com.google.cc.g.a.f.e(PG:2)
+        at com.google.android.apps.gsa.speech.k.a.g.d(PG:22)
+        at com.google.android.apps.gsa.speech.k.a.g.jQ(PG:6)
+        at com.google.android.apps.gsa.s3.p.c(PG:14)
+        at com.google.android.apps.gsa.s3.q.run(PG:1)
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+        at com.google.android.apps.gsa.shared.util.c.a.e.run(PG:2)
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1)
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at java.lang.Thread.run(Thread.java:923)
+        at com.google.android.apps.gsa.shared.util.c.a.l.run(PG:5)
+     Caused by: com.google.android.apps.gsa.shared.speech.a.o: errorCode: 65586, engine: 2
+        at com.google.android.apps.gsa.s3.o.gR(PG:1) 
+        at com.google.cc.g.a.f.e(PG:2) 
+        at com.google.android.apps.gsa.speech.k.a.g.d(PG:22) 
+        at com.google.android.apps.gsa.speech.k.a.g.jQ(PG:6) 
+        at com.google.android.apps.gsa.s3.p.c(PG:14) 
+        at com.google.android.apps.gsa.s3.q.run(PG:1) 
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462) 
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266) 
+        at com.google.android.apps.gsa.shared.util.c.a.e.run(PG:2) 
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1) 
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1) 
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167) 
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641) 
+        at java.lang.Thread.run(Thread.java:923) 
+        at com.google.android.apps.gsa.shared.util.c.a.l.run(PG:5) 
+     Caused by: com.google.android.apps.gsa.shared.speech.a.k: errorCode: 401, engine: 2
+        at com.google.android.apps.gsa.assistant.shared.n.h.a(PG:5)
+        at com.google.android.apps.gsa.s3.producers.j.hj(PG:2)
+        at com.google.android.apps.gsa.speech.k.a.g.d(PG:16)
+        at com.google.android.apps.gsa.speech.k.a.g.jQ(PG:6) 
+        at com.google.android.apps.gsa.s3.p.c(PG:14) 
+        at com.google.android.apps.gsa.s3.q.run(PG:1) 
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462) 
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266) 
+        at com.google.android.apps.gsa.shared.util.c.a.e.run(PG:2) 
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1) 
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1) 
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167) 
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641) 
+        at java.lang.Thread.run(Thread.java:923) 
+        at com.google.android.apps.gsa.shared.util.c.a.l.run(PG:5) 
+2022-12-04 02:01:44.596 9742-11972/? E/PhenotypeRegOp: Attempting to overwrite config package for com.google.android.gms.games [CONTEXT service_id=231 ]
+2022-12-04 02:01:44.599 9742-11972/? E/PhenotypeRegOp: Attempting to overwrite config package for com.google.android.gms.maps#com.google.android.gms [CONTEXT service_id=231 ]
+2022-12-04 02:01:44.600 9742-11972/? E/PhenotypeRegOp: Attempting to overwrite config package for com.google.android.gms.cast [CONTEXT service_id=231 ]
+2022-12-04 02:01:44.601 9742-11972/? E/PhenotypeRegOp: Attempting to overwrite config package for com.google.android.gms.mobile_data_plan [CONTEXT service_id=231 ]
+2022-12-04 02:01:44.627 9742-11972/? E/PhenotypeRegOp: Attempting to overwrite config package for com.google.android.gms.udc [CONTEXT service_id=231 ]
+2022-12-04 02:01:45.021 12034-12034/? E/timeinitialize: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:45.142 12056-12056/? E/ackageinstalle: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:45.304 12075-12075/? E/id.partnersetu: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:45.432 9940-10294/? E/BugleRcsEngine: [192] xdj.a: File not found.: java.io.FileNotFoundException: /data/user/0/com.google.android.apps.messaging/files/httpft_pending: open failed: ENOENT (No such file or directory)
+        at libcore.io.IoBridge.open(IoBridge.java:492)
+        at java.io.FileInputStream.<init>(FileInputStream.java:160)
+        at android.app.ContextImpl.openFileInput(ContextImpl.java:636)
+        at android.content.ContextWrapper.openFileInput(ContextWrapper.java:216)
+        at xdj.a(PG:29)
+        at com.google.android.apps.messaging.rcsmigration.RcsStateProvider.buildRcsState(PG:34)
+        at com.google.android.apps.messaging.rcsmigration.RcsStateProvider.getRcsState(PG:45)
+        at com.google.android.ims.rcsmigration.IRcsStateProvider$Stub.dispatchTransaction(PG:8)
+        at com.google.android.aidl.BaseStub.onTransact(PG:7)
+        at android.os.Binder.execTransactInternal(Binder.java:1154)
+        at android.os.Binder.execTransact(Binder.java:1123)
+     Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+        at libcore.io.Linux.open(Native Method)
+        at libcore.io.ForwardingOs.open(ForwardingOs.java:166)
+        at libcore.io.BlockGuardOs.open(BlockGuardOs.java:254)
+        at libcore.io.ForwardingOs.open(ForwardingOs.java:166)
+        at android.app.ActivityThread$AndroidOs.open(ActivityThread.java:7542)
+        at libcore.io.IoBridge.open(IoBridge.java:478)
+        at java.io.FileInputStream.<init>(FileInputStream.java:160) 
+        at android.app.ContextImpl.openFileInput(ContextImpl.java:636) 
+        at android.content.ContextWrapper.openFileInput(ContextWrapper.java:216) 
+        at xdj.a(PG:29) 
+        at com.google.android.apps.messaging.rcsmigration.RcsStateProvider.buildRcsState(PG:34) 
+        at com.google.android.apps.messaging.rcsmigration.RcsStateProvider.getRcsState(PG:45) 
+        at com.google.android.ims.rcsmigration.IRcsStateProvider$Stub.dispatchTransaction(PG:8) 
+        at com.google.android.aidl.BaseStub.onTransact(PG:7) 
+        at android.os.Binder.execTransactInternal(Binder.java:1154) 
+        at android.os.Binder.execTransact(Binder.java:1123) 
+2022-12-04 02:01:45.656 9940-10086/? E/BugleNetwork: TachyonPhoneRegistration: Failed to ensure tachyon registration
+    java.lang.IllegalArgumentException: normalizedPhoneNumber is empty
+        at jyd.<init>(PG:3)
+        at jye.a(PG:5)
+        at jlc.a(Unknown Source:8)
+        at afoy.a(PG:3)
+        at ailz.a(PG:3)
+        at aima.run(PG:23)
+        at aino.execute(PG:3)
+        at ailw.b(PG:77)
+        at ailw.a(PG:76)
+        at ailw.b(PG:172)
+        at aipx.a(PG:3)
+        at aiox.run(PG:21)
+        at aipy.run(PG:12)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at aesr.run(Unknown Source:4)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:01:45.661 9940-10086/? E/BugleNetwork: Failed to ensure Tachyon phone registration.
+    java.lang.IllegalArgumentException: normalizedPhoneNumber is empty
+        at jyd.<init>(PG:3)
+        at jye.a(PG:5)
+        at jlc.a(Unknown Source:8)
+        at afoy.a(PG:3)
+        at ailz.a(PG:3)
+        at aima.run(PG:23)
+        at aino.execute(PG:3)
+        at ailw.b(PG:77)
+        at ailw.a(PG:76)
+        at ailw.b(PG:172)
+        at aipx.a(PG:3)
+        at aiox.run(PG:21)
+        at aipy.run(PG:12)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at aesr.run(Unknown Source:4)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:01:45.967 12107-12107/? E/ssioncontrolle: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:46.346 12130-12130/? E/gearhead:share: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:46.722 474-474/? E/wifi_forwarder: qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:wififorward' service: Invalid argument
+2022-12-04 02:01:46.722 474-474/? E/wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+2022-12-04 02:01:47.106 12169-12169/? E/on.gearhead:ca: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:47.421 12195-12195/? E/oid.setupwizar: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:55.307 9304-12253/? E/cqok: RuntimeException while executing runnable cqoz{piv@3a968c} with executor MoreExecutors.directExecutor()
+    java.lang.NullPointerException: Attempt to get length of null array
+        at android.util.Base64.encode(Base64.java:496)
+        at android.util.Base64.encodeToString(Base64.java:458)
+        at com.google.android.gms.auth.proximity.RemoteDevice.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at piv.b(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at cqoz.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):6)
+        at cqoh.execute(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at cqok.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at cqok.b(:com.google.android.gms@224517040@22.45.17 (150700-490120723):3)
+        at zwt.done(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at java.util.concurrent.FutureTask.finishCompletion(FutureTask.java:383)
+        at java.util.concurrent.FutureTask.set(FutureTask.java:234)
+        at java.util.concurrent.FutureTask.run(FutureTask.java:274)
+        at zwo.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):6)
+        at zwo.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):7)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at aabs.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:01:55.456 8690-9878/? E/RecoverySnapshotStorage: Error reading snapshot for 10108 from disk
+    java.io.FileNotFoundException: /data/system/recoverablekeystore/snapshots/10108.xml: open failed: ENOENT (No such file or directory)
+        at libcore.io.IoBridge.open(IoBridge.java:492)
+        at java.io.FileInputStream.<init>(FileInputStream.java:160)
+        at com.android.server.locksettings.recoverablekeystore.storage.RecoverySnapshotStorage.readFromDisk(RecoverySnapshotStorage.java:152)
+        at com.android.server.locksettings.recoverablekeystore.storage.RecoverySnapshotStorage.get(RecoverySnapshotStorage.java:104)
+        at com.android.server.locksettings.recoverablekeystore.RecoverableKeyStoreManager.getKeyChainSnapshot(RecoverableKeyStoreManager.java:343)
+        at com.android.server.locksettings.LockSettingsService.getKeyChainSnapshot(LockSettingsService.java:2390)
+        at com.android.internal.widget.ILockSettings$Stub.onTransact(ILockSettings.java:769)
+        at android.os.Binder.execTransactInternal(Binder.java:1154)
+        at android.os.Binder.execTransact(Binder.java:1123)
+     Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+        at libcore.io.Linux.open(Native Method)
+        at libcore.io.ForwardingOs.open(ForwardingOs.java:166)
+        at libcore.io.BlockGuardOs.open(BlockGuardOs.java:254)
+        at libcore.io.IoBridge.open(IoBridge.java:478)
+        at java.io.FileInputStream.<init>(FileInputStream.java:160) 
+        at com.android.server.locksettings.recoverablekeystore.storage.RecoverySnapshotStorage.readFromDisk(RecoverySnapshotStorage.java:152) 
+        at com.android.server.locksettings.recoverablekeystore.storage.RecoverySnapshotStorage.get(RecoverySnapshotStorage.java:104) 
+        at com.android.server.locksettings.recoverablekeystore.RecoverableKeyStoreManager.getKeyChainSnapshot(RecoverableKeyStoreManager.java:343) 
+        at com.android.server.locksettings.LockSettingsService.getKeyChainSnapshot(LockSettingsService.java:2390) 
+        at com.android.internal.widget.ILockSettings$Stub.onTransact(ILockSettings.java:769) 
+        at android.os.Binder.execTransactInternal(Binder.java:1154) 
+        at android.os.Binder.execTransact(Binder.java:1123) 
+2022-12-04 02:01:55.982 12263-12263/? E/android.vendin: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:56.057 9742-11972/? E/JavaBinder: !!! FAILED BINDER TRANSACTION !!!  (parcel size = 1056768)
+2022-12-04 02:01:56.207 12287-12287/? E/d.process.medi: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:56.484 12263-12331/? E/Finsky: [381] gmw.aB(7): Unexpected error occurred
+2022-12-04 02:01:56.499 12263-12331/? E/Finsky: [381] gmw.aB(7): Unexpected error occurred
+2022-12-04 02:01:56.515 12263-12331/? E/Finsky: [381] gmw.aB(7): Unexpected error occurred
+2022-12-04 02:01:56.922 9742-12235/? E/gle.android.gm: Invalid ID 0x00000000.
+2022-12-04 02:01:57.213 9742-12235/? E/gle.android.gm: Invalid ID 0x00000000.
+2022-12-04 02:01:57.842 12403-12403/? E/id.gms.unstabl: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:58.059 9742-12237/? E/PhenotypeFlagCommitter: Retrieving snapshot for com.google.android.gms.playlog.uploader failed
+    java.util.concurrent.TimeoutException: Timed out waiting for Task
+        at boxp.m(:com.google.android.gms@224517040@22.45.17 (150700-490120723):6)
+        at bggs.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at bggs.i(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at bggs.f(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at com.google.android.gms.clearcut.init.ClearcutInitChimeraIntentService.b(:com.google.android.gms@224517040@22.45.17 (150700-490120723):5)
+        at xcm.onHandleIntent(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at com.google.android.gms.clearcut.init.DefaultPriorityClearcutInitChimeraIntentService.onHandleIntent(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at xgx.onHandleIntent(:com.google.android.gms@224517040@22.45.17 (150700-490120723):4)
+        at gpi.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):3)
+        at gph.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):11)
+        at ckqk.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:01:58.224 12431-12431/? E/d.process.acor: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:01:59.815 9648-9648/? E/A: onError
+    com.google.android.apps.gsa.shared.speech.a.m: errorCode: 65561, engine: 2
+        at com.google.android.apps.gsa.staticplugins.cy.a.f.a(PG:3)
+        at com.google.android.apps.gsa.s3.o.gR(PG:1)
+        at com.google.cc.g.a.f.e(PG:2)
+        at com.google.android.apps.gsa.speech.k.a.g.d(PG:22)
+        at com.google.android.apps.gsa.speech.k.a.g.jQ(PG:6)
+        at com.google.android.apps.gsa.s3.p.c(PG:14)
+        at com.google.android.apps.gsa.s3.q.run(PG:1)
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+        at com.google.android.apps.gsa.shared.util.c.a.e.run(PG:2)
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1)
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at java.lang.Thread.run(Thread.java:923)
+        at com.google.android.apps.gsa.shared.util.c.a.l.run(PG:5)
+     Caused by: com.google.android.apps.gsa.shared.speech.a.o: errorCode: 65586, engine: 2
+        at com.google.android.apps.gsa.s3.o.gR(PG:1) 
+        at com.google.cc.g.a.f.e(PG:2) 
+        at com.google.android.apps.gsa.speech.k.a.g.d(PG:22) 
+        at com.google.android.apps.gsa.speech.k.a.g.jQ(PG:6) 
+        at com.google.android.apps.gsa.s3.p.c(PG:14) 
+        at com.google.android.apps.gsa.s3.q.run(PG:1) 
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462) 
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266) 
+        at com.google.android.apps.gsa.shared.util.c.a.e.run(PG:2) 
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1) 
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1) 
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167) 
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641) 
+        at java.lang.Thread.run(Thread.java:923) 
+        at com.google.android.apps.gsa.shared.util.c.a.l.run(PG:5) 
+     Caused by: com.google.android.apps.gsa.shared.speech.a.k: errorCode: 401, engine: 2
+        at com.google.android.apps.gsa.assistant.shared.n.h.a(PG:5)
+        at com.google.android.apps.gsa.s3.producers.j.hj(PG:2)
+        at com.google.android.apps.gsa.speech.k.a.g.d(PG:16)
+        at com.google.android.apps.gsa.speech.k.a.g.jQ(PG:6) 
+        at com.google.android.apps.gsa.s3.p.c(PG:14) 
+        at com.google.android.apps.gsa.s3.q.run(PG:1) 
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462) 
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266) 
+        at com.google.android.apps.gsa.shared.util.c.a.e.run(PG:2) 
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1) 
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1) 
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167) 
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641) 
+        at java.lang.Thread.run(Thread.java:923) 
+        at com.google.android.apps.gsa.shared.util.c.a.l.run(PG:5) 
+2022-12-04 02:02:00.108 9742-12237/? E/libc: Access denied finding property "ro.hardware.chipname"
+2022-12-04 02:02:00.158 9742-10473/? E/AbstractGmsTracer: Traced class shouldn't be obfuscated: gyp [CONTEXT service_id=259 ]
+2022-12-04 02:02:01.165 9742-12235/? E/gle.android.gm: Invalid ID 0x00000000.
+2022-12-04 02:02:01.784 9742-12511/? E/PhenotypeFlagCommitter: Retrieving snapshot for com.google.lighter.android#com.google.android.gms failed
+    java.util.concurrent.TimeoutException: Timed out waiting for Task
+        at boxp.m(:com.google.android.gms@224517040@22.45.17 (150700-490120723):6)
+        at bggs.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at bggs.i(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at bggs.f(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at byeu.apply(:com.google.android.gms@224517040@22.45.17 (150700-490120723):10)
+        at cqmw.d(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at cqmx.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):9)
+        at cqoh.execute(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at cqmt.q(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at cqmt.j(:com.google.android.gms@224517040@22.45.17 (150700-490120723):9)
+        at cqmt.m(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at cqqp.e(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at cqpp.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):6)
+        at cqqq.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at byex.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at byfp.run(:com.google.android.gms@224517040@22.45.17 (150700-490120723):0)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:02:03.547 8690-8703/? E/WifiThreadRunner: WifiThreadRunner.call() timed out!
+    java.lang.Throwable: Stack trace:
+        at com.android.server.wifi.WifiThreadRunner.call(WifiThreadRunner.java:80)
+        at com.android.server.wifi.WifiServiceImpl.getWifiApConfiguration(WifiServiceImpl.java:1868)
+        at android.net.wifi.IWifiManager$Stub.onTransact(IWifiManager.java:1054)
+        at android.os.Binder.execTransactInternal(Binder.java:1154)
+        at android.os.Binder.execTransact(Binder.java:1123)
+2022-12-04 02:02:04.529 9304-10627/? E/.gms.persisten: Invalid ID 0x00000000.
+2022-12-04 02:02:04.544 9742-12238/? E/gle.android.gm: Invalid ID 0x00000000.
+2022-12-04 02:02:04.591 9304-9304/? E/.gms.persisten: Invalid ID 0x00000000.
+2022-12-04 02:02:04.732 9304-12416/? E/NetworkScheduler.ATC: Called cancelTask for already completed task com.google.android.gms/.thunderbird.ThunderbirdSchedulerService{u=0 tag="PeriodicLogging" trigger=window{period=86400s,flex=77760s,earliest=-398s,latest=77361s} requirements=[NET_ANY] attributes=[RECURRING] scheduled=-9038s last_run=0s exec_window_multiplier=1.0000 jid=N/A status=ACTIVE retries=0 client_lib=GMS_TASK_SCHEDULER-224517000} :1 [CONTEXT service_id=218 ]
+2022-12-04 02:02:05.689 8848-9232/? E/bt_btm: BTM_BleObserve Observe Already Active
+2022-12-04 02:02:06.518 9113-9140/? E/DatabaseUtils: Writing exception to parcel
+    java.lang.SecurityException: No permission to access APN settings
+        at com.android.providers.telephony.TelephonyProvider.checkPermission(TelephonyProvider.java:3947)
+        at com.android.providers.telephony.TelephonyProvider.checkPermissionCompat(TelephonyProvider.java:3964)
+        at com.android.providers.telephony.TelephonyProvider.query(TelephonyProvider.java:2927)
+        at android.content.ContentProvider.query(ContentProvider.java:1379)
+        at android.content.ContentProvider.query(ContentProvider.java:1475)
+        at android.content.ContentProvider$Transport.query(ContentProvider.java:278)
+        at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:106)
+        at android.os.Binder.execTransactInternal(Binder.java:1154)
+        at android.os.Binder.execTransact(Binder.java:1123)
+2022-12-04 02:02:06.634 12263-12554/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:02:06.634 12263-12554/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:02:06.693 12263-12554/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:02:06.703 12263-12554/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:02:06.802 12263-12554/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:02:06.808 12263-12554/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:02:06.810 12263-12554/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:02:06.812 12263-12554/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:02:06.898 12263-12554/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:02:06.907 12263-12554/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:02:06.917 12263-12554/? E/PhenotypeCombinedFlags: Config package com.google.android.gms.phenotype cannot use PROCESS_STABLE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+2022-12-04 02:02:10.767 12075-12075/? E/GooglePartnerSetup: Phenotype client.register: true
+2022-12-04 02:02:12.023 9742-12235/? E/WorkSourceUtil: Could not find package: com.google.android.gms.westworld
+2022-12-04 02:02:12.039 9742-12235/? E/WorkSourceUtil: Could not find package: com.google.android.gms.westworld
+2022-12-04 02:02:12.130 8848-9232/? E/bt_btm: BTM_BleObserve Observe Already Active
+2022-12-04 02:02:25.896 8690-12615/? E/ActivityManager: ANR in com.google.android.setupwizard
+    PID: 12195
+    Reason: executing service com.google.android.setupwizard/.predeferred.PreDeferredServiceScheduler
+    Load: 0.0 / 0.0 / 0.0
+    ----- Output from /proc/pressure/memory -----
+    some avg10=0.36 avg60=1.37 avg300=0.65 total=205232906
+    full avg10=0.02 avg60=0.11 avg300=0.03 total=51893941
+    ----- End output from /proc/pressure/memory -----
+    
+    CPU usage from 61483ms to 0ms ago (2022-12-03 23:01:24.259 to 2022-12-03 23:02:25.742):
+      60% 9304/com.google.android.gms.persistent: 10% user + 50% kernel / faults: 111075 minor 124 major
+      42% 8690/system_server: 8.2% user + 34% kernel / faults: 50492 minor 455 major
+      16% 9742/com.google.android.gms: 4% user + 12% kernel / faults: 31498 minor 254 major
+      5.1% 9648/com.google.android.googlequicksearchbox:search: 1.6% user + 3.4% kernel / faults: 13380 minor 293 major
+      4.5% 305/android.hardware.bluetooth@1.1-service.sim: 0% user + 4.4% kernel
+      2.6% 89/kswapd0: 0% user + 2.6% kernel
+      2.5% 1970/adbd: 0% user + 2.5% kernel / faults: 1 minor
+      2.5% 9113/com.android.phone: 0.6% user + 1.9% kernel / faults: 9664 minor 50 major
+      2.1% 171/logd: 0.1% user + 2% kernel / faults: 143 minor 401 major
+      1.6% 212/jbd2/dm-5-8: 0% user + 1.6% kernel
+      1.6% 9940/com.google.android.apps.messaging: 0.5% user + 1.1% kernel / faults: 3381 minor 13 major
+      1.2% 9467/com.google.process.gservices: 0.2% user + 1% kernel / faults: 1815 minor
+      1% 318/android.hardware.graphics.composer@2.3-service: 0% user + 1% kernel
+      0.8% 327/android.hardware.sensors@2.1-service.multihal: 0% user + 0.8% kernel
+      0.8% 21/ksoftirqd/2: 0% user + 0.8% kernel
+      0.7% 16/ksoftirqd/1: 0% user + 0.7% kernel
+      0.7% 8648/zygote: 0% user + 0.7% kernel / faults: 5606 minor
+      0.7% 172/lmkd: 0% user + 0.6% kernel
+      0.7% 8867/com.android.systemui: 0.3% user + 0.3% kernel / faults: 7245 minor 26 major
+      0.6% 378/logcat: 0% user + 0.6% kernel / faults: 5 major
+      0.6% 8848/com.android.bluetooth: 0% user + 0.6% kernel / faults: 954 minor 21 major
+      0.6% 10/rcu_preempt: 0% user + 0.6% kernel
+      0.6% 295/statsd: 0% user + 0.6% kernel / faults: 170 minor 23 major
+      0.6% 26/ksoftirqd/3: 0% user + 0.6% kernel
+      0.3% 9571/com.google.android.providers.media.module: 0% user + 0.2% kernel / faults: 255 minor 15 major
+      0.5% 362/surfaceflinger: 0% user + 0.5% kernel / faults: 667 minor 2 major
+      0.5% 9/ksoftirqd/0: 0% user + 0.5% kernel
+      0.5% 7453/kworker/u9:3-fscrypt_read_queue: 0% user + 0.5% kernel
+      0.5% 8490/logcat: 0% user + 0.4% kernel
+      0.3% 10159/com.google.android.ims: 0.1% user + 0.2% kernel / faults: 797 minor 18 major
+      0.3% 6247/transport: 0% user + 0.3% kernel
+      0.3% 131/kworker/1:1H-kblockd: 0% user + 0.3% kernel
+      0.1% 453/media.swcodec: 0% user + 0.1% kernel / faults: 7105 minor
+      0.3% 1/init: 0% user + 0.3% kernel / faults: 5 minor 4 major
+      0.3% 143/kworker/0:1H-kblockd: 0% user + 0.3% kernel
+      0.3% 8148/kworker/u8:4-events_unbound: 0% user + 0.3% kernel
+      0.3% 9023/com.android.networkstack.process: 0% user + 0.2% kernel / faults: 1491 minor 4 major
+      0.1% 148/kworker/2:1H-kblockd: 0% user + 0.1% kernel
+      0.2% 8158/kworker/u9:0-blk_crypto_wq: 0% user + 0.2% kernel
+      0.2% 9150/com.google.android.ext.services: 0% user + 0.2% kernel / faults: 328 minor 7 major
+      0.2% 173/servicemanager: 0% user + 0.2% kernel
+      0.2% 5699/kworker/u8:1+kverityd: 0% user + 0.2% kernel
+      0.2% 8067/kworker/u8:3-kverityd: 0% user + 0.2% kernel
+      0.2% 5360/kworker/u8:0-kverityd: 0% user + 0.2% kernel
+      0.2% 8653/netd: 0% user + 0.2% kernel / faults: 363 minor
+      0.2% 122/kworker/3:1H-kblockd: 0% user + 0.2% kernel
+      0.1% 8068/kworker/1:2-events_power_efficient: 0% user + 0.1% kernel
+      0.1% 7885/kworker/0:2-events: 0% user + 0.1% kernel
+      0% 8066/kworker/u8:2-kverityd: 0% user + 0% kernel
+      0% 446/media.codec: 0% user + 0% kernel / faults: 2877 minor
+      0% 435/media.extractor: 0% user + 0% kernel / faults: 1820 minor
+      0.1% 489/dhcpclient: 0% user + 0.1% kernel
+      0% 9549/com.android.emulator.multidisplay: 0% user + 0% kernel / faults: 1239 minor
+2022-12-04 02:02:25.897 8690-12615/? E/ActivityManager:   0.1% 7228/kworker/u9:2-fscrypt_read_queue: 0% user + 0.1% kernel
+      0% 8262/kworker/2:2-cgroup_pidlist_destroy: 0% user + 0% kernel
+      0% 8754/kworker/3:3-events: 0% user + 0% kernel
+      0.1% 9493/com.google.android.googlequicksearchbox:interactor: 0% user + 0% kernel / faults: 88 minor 6 major
+      0% 8715/audioserver: 0% user + 0% kernel / faults: 92 minor 1 major
+      0% 9177/com.google.android.apps.nexuslauncher: 0% user + 0% kernel / faults: 206 minor 18 major
+      0% 9046/com.android.se: 0% user + 0% kernel / faults: 1265 minor
+      0% 9517/com.android.ims.rcsservice: 0% user + 0% kernel / faults: 1310 minor
+      0% 8650/cameraserver: 0% user + 0% kernel / faults: 53 minor
+      0% 8970/android.hardware.gnss@2.0-service.ranchu: 0% user + 0% kernel
+      0% 9340/com.google.android.inputmethod.latin: 0% user + 0% kernel / faults: 16 minor 26 major
+      0% 11/migration/0: 0% user + 0% kernel
+      0% 234/loop7: 0% user + 0% kernel
+      0% 290/tombstoned: 0% user + 0% kernel
+      0% 431/keystore: 0% user + 0% kernel / faults: 52 minor 76 major
+      0% 8030/kworker/2:0-cgroup_destroy: 0% user + 0% kernel
+      0% 8651/mediaserver: 0% user + 0% kernel / faults: 21 minor
+      0% 174/hwservicemanager: 0% user + 0% kernel
+      0% 176/vold: 0% user + 0% kernel / faults: 20 minor
+      0% 262/loop21: 0% user + 0% kernel
+      0% 274/loop27: 0% user + 0% kernel
+      0% 317/android.hardware.graphics.allocator@3.0-service: 0% user + 0% kernel
+      0% 438/media.metrics: 0% user + 0% kernel / faults: 24 minor
+      0% 451/libgoldfish-rild: 0% user + 0% kernel / faults: 14 minor
+      0% 461/android.hardware.biometrics.fingerprint@2.1-service: 0% user + 0% kernel / faults: 31 minor 1 major
+      0% 8657/kworker/1:3-cgroup_destroy: 0% user + 0% kernel
+      0% 8756/kworker/3:5-cgroup_destroy: 0% user + 0% kernel
+      0% 10571/kworker/u9:1-fscrypt_read_queue: 0% user + 0% kernel
+     +0% 10863/crash_dump32: 0% user + 0% kernel
+     +0% 11143/kworker/u9:4-blk_crypto_wq: 0% user + 0% kernel
+     +0% 11229/com.google.process.gapps: 0% user + 0% kernel
+     +0% 11293/com.android.vending:background: 0% user + 0% kernel
+     +0% 11431/com.google.android.apps.photos: 0% user + 0% kernel
+     +0% 11861/com.google.android.deskclock: 0% user + 0% kernel
+     +0% 11895/com.google.android.gm: 0% user + 0% kernel
+     +0% 11918/kworker/2:3: 0% user + 0% kernel
+     +0% 11981/com.android.chrome: 0% user + 0% kernel
+     +0% 12034/com.google.android.onetimeinitializer: 0% user + 0% kernel
+     +0% 12056/com.google.android.packageinstaller: 0% user + 0% kernel
+     +0% 12075/com.google.android.partnersetup: 0% user + 0% kernel
+     +0% 12107/com.google.android.permissioncontroller: 0% user + 0% kernel
+     +0% 12130/com.google.android.projection.gearhead:shared: 0% user + 0% kernel
+     +0% 12169/com.google.android.projection.gearhead:car: 0% user + 0% kernel
+     +0% 12195/com.google.android.setupwizard: 0% user + 0% kernel
+     +0% 12263/com.android.vending: 0% user + 0% kernel
+     +0% 12287/android.process.media: 0% user + 0% kernel
+     +0% 12403/com.google.android.gms.unstable: 0% user + 0% kernel
+     +0% 12431/android.process.acore: 0% user + 0% kernel
+    53% TOTAL: 10% user + 40% kernel + 1.2% iowait + 0.9% softirq
+    CPU usage from 85337856ms to 85337856ms ago (1970-01-01 00:00:00.000 to 1970-01-01 00:00:00.000) with 0% awake:
+    0% TOTAL: 0% user + 0% kernel
+2022-12-04 02:02:25.981 12619-12619/? E/apters.contact: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:02:26.237 12645-12645/? E/.android.video: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:02:26.420 8716-8724/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:26.424 8716-8724/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:26.436 8690-8793/? E/InputDispatcher: channel '80a9798 com.android.systemui.ImageWallpaper (server)' ~ Channel is unrecoverably broken and will be disposed!
+2022-12-04 02:02:26.436 8690-8793/? E/InputDispatcher: channel '580ddf9 StatusBar (server)' ~ Channel is unrecoverably broken and will be disposed!
+2022-12-04 02:02:26.440 8690-8793/? E/InputDispatcher: channel '9e54263 NavigationBar0 (server)' ~ Channel is unrecoverably broken and will be disposed!
+2022-12-04 02:02:26.483 8715-8741/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:26.501 8690-10006/? E/FingerprintService: Lockout reset callback binder died
+2022-12-04 02:02:26.483 8715-8741/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:26.507 8690-10012/? E/BiometricService: Enabled callback binder died
+2022-12-04 02:02:26.780 12675-12675/? E/ndroid.systemu: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:02:27.442 12675-12675/? E/ActivityThread: Failed to find provider info for com.google.android.apps.turbo.estimated_time_remaining
+2022-12-04 02:02:27.466 12675-12675/? E/NavigationModeController: updateCurrentInteractionMode: mode=0
+2022-12-04 02:02:27.845 12747-12747/? E/android.youtub: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:02:28.024 12675-12770/? E/vol.VolumeDialogControl: isCaptionsServiceEnabled failed to check for captions component
+    java.lang.IllegalArgumentException: Unknown component: ComponentInfo{com.google.android.as/com.google.android.apps.miphone.aiai.captions.CaptionsService}
+        at android.os.Parcel.createExceptionOrNull(Parcel.java:2377)
+        at android.os.Parcel.createException(Parcel.java:2357)
+        at android.os.Parcel.readException(Parcel.java:2340)
+        at android.os.Parcel.readException(Parcel.java:2282)
+        at android.content.pm.IPackageManager$Stub$Proxy.getComponentEnabledSetting(IPackageManager.java:6804)
+        at android.app.ApplicationPackageManager.getComponentEnabledSetting(ApplicationPackageManager.java:2723)
+        at com.android.systemui.volume.VolumeDialogControllerImpl.onGetCaptionsComponentStateW(VolumeDialogControllerImpl.java:441)
+        at com.android.systemui.volume.VolumeDialogControllerImpl.access$2000(VolumeDialogControllerImpl.java:92)
+        at com.android.systemui.volume.VolumeDialogControllerImpl$W.handleMessage(VolumeDialogControllerImpl.java:825)
+        at android.os.Handler.dispatchMessage(Handler.java:106)
+        at android.os.Looper.loop(Looper.java:223)
+        at android.os.HandlerThread.run(HandlerThread.java:67)
+     Caused by: android.os.RemoteException: Remote stack trace:
+        at com.android.server.pm.PackageManagerService.getComponentEnabledSetting(PackageManagerService.java:21394)
+        at android.content.pm.IPackageManager$Stub.onTransact(IPackageManager.java:3216)
+        at com.android.server.pm.PackageManagerService.onTransact(PackageManagerService.java:4302)
+        at android.os.Binder.execTransactInternal(Binder.java:1154)
+        at android.os.Binder.execTransact(Binder.java:1123)
+2022-12-04 02:02:28.093 12675-12743/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.093 12675-12743/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.094 12675-12744/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.094 12675-12744/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.102 453-14811/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.102 453-14811/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.105 453-20236/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.106 453-20236/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.107 12675-12743/? E/ion: ioctl c0044901 failed with code -1: Inappropriate ioctl for device
+2022-12-04 02:02:28.111 12675-12743/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.112 453-14811/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.131 12675-12744/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.131 453-14811/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.146 453-12775/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.147 12675-12756/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.160 453-12776/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.161 12675-12756/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.259 12747-12747/? E/YouTube: flushBinderConnectionCallbacks is unverified on SDK 30
+2022-12-04 02:02:28.400 12675-12797/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.400 12675-12797/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.403 453-453/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.404 453-453/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.409 12675-12797/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.411 453-453/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.447 453-12798/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.448 12675-12756/? E/FMQ: grantorIdx must be less than 3
+2022-12-04 02:02:28.706 12747-12809/? E/GEL_DELAYED_EVENT_DEBUG: Failed delayed event dispatch, no dispatchers.
+2022-12-04 02:02:29.829 12916-12916/? E/id.apps.tachyo: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:02:30.058 9648-9648/? E/A: onError
+    com.google.android.apps.gsa.shared.speech.a.m: errorCode: 65561, engine: 2
+        at com.google.android.apps.gsa.staticplugins.cy.a.f.a(PG:3)
+        at com.google.android.apps.gsa.s3.o.gR(PG:1)
+        at com.google.cc.g.a.f.e(PG:2)
+        at com.google.android.apps.gsa.speech.k.a.g.d(PG:22)
+        at com.google.android.apps.gsa.speech.k.a.g.jQ(PG:6)
+        at com.google.android.apps.gsa.s3.p.c(PG:14)
+        at com.google.android.apps.gsa.s3.q.run(PG:1)
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+        at com.google.android.apps.gsa.shared.util.c.a.e.run(PG:2)
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1)
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at java.lang.Thread.run(Thread.java:923)
+        at com.google.android.apps.gsa.shared.util.c.a.l.run(PG:5)
+     Caused by: com.google.android.apps.gsa.shared.speech.a.o: errorCode: 65586, engine: 2
+        at com.google.android.apps.gsa.s3.o.gR(PG:1) 
+        at com.google.cc.g.a.f.e(PG:2) 
+        at com.google.android.apps.gsa.speech.k.a.g.d(PG:22) 
+        at com.google.android.apps.gsa.speech.k.a.g.jQ(PG:6) 
+        at com.google.android.apps.gsa.s3.p.c(PG:14) 
+        at com.google.android.apps.gsa.s3.q.run(PG:1) 
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462) 
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266) 
+        at com.google.android.apps.gsa.shared.util.c.a.e.run(PG:2) 
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1) 
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1) 
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167) 
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641) 
+        at java.lang.Thread.run(Thread.java:923) 
+        at com.google.android.apps.gsa.shared.util.c.a.l.run(PG:5) 
+     Caused by: com.google.android.apps.gsa.shared.speech.a.k: errorCode: 401, engine: 2
+        at com.google.android.apps.gsa.assistant.shared.n.h.a(PG:5)
+        at com.google.android.apps.gsa.s3.producers.j.hj(PG:2)
+        at com.google.android.apps.gsa.speech.k.a.g.d(PG:16)
+        at com.google.android.apps.gsa.speech.k.a.g.jQ(PG:6) 
+        at com.google.android.apps.gsa.s3.p.c(PG:14) 
+        at com.google.android.apps.gsa.s3.q.run(PG:1) 
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462) 
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266) 
+        at com.google.android.apps.gsa.shared.util.c.a.e.run(PG:2) 
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1) 
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1) 
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167) 
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641) 
+        at java.lang.Thread.run(Thread.java:923) 
+        at com.google.android.apps.gsa.shared.util.c.a.l.run(PG:5) 
+2022-12-04 02:02:30.822 12979-12979/? E/.android.diale: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:02:31.362 13014-13014/? E/externalstorag: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:02:32.364 13041-13041/? E/oadcastreceive: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:02:32.592 13063-13063/? E/viders.calenda: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:02:32.775 13088-13088/? E/droid.apps.map: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:02:34.256 13147-13147/? E/ndroid.calenda: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:02:34.656 468-468/? E/netmgr: qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:network' service: Invalid argument
+2022-12-04 02:02:34.656 468-468/? E/netmgr: Failed to open QEMU pipe 'qemud:network': Invalid argument
+2022-12-04 02:02:35.111 13214-13214/? E/ogle.android.g: Not starting debugger since process cannot load the jdwp agent.
+2022-12-04 02:02:35.480 9304-9321/? E/AuthPII: [GoogleAccountDataServiceImpl] getToken() -> BAD_AUTHENTICATION. App: com.google.android.gms, Service: oauth2:https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/account.capabilities https://www.googleapis.com/auth/account.service_flags
+    yvq: Long live credential not available.
+        at kwj.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):8)
+        at kwp.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):3)
+        at kuw.l(:com.google.android.gms@224517040@22.45.17 (150700-490120723):47)
+        at kty.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):24)
+        at kud.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at kxc.b(:com.google.android.gms@224517040@22.45.17 (150700-490120723):3)
+        at kxc.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):7)
+        at ktf.hasFeatures(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at android.accounts.AbstractAccountAuthenticator$Transport.hasFeatures(AbstractAccountAuthenticator.java:311)
+        at android.accounts.IAccountAuthenticator$Stub.onTransact(IAccountAuthenticator.java:343)
+        at android.os.Binder.transact(Binder.java:1043)
+        at aqeg.onTransact(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at android.os.Binder.transact(Binder.java:1043)
+        at akpx.onTransact(:com.google.android.gms@224517040@22.45.17 (150700-490120723):17)
+        at android.os.Binder.execTransactInternal(Binder.java:1159)
+        at android.os.Binder.execTransact(Binder.java:1123)
+2022-12-04 02:02:35.480 9304-9321/? E/AuthPII: Message is Long live credential not available.
+    yvq: Long live credential not available.
+        at kwj.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):8)
+        at kwp.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):3)
+        at kuw.l(:com.google.android.gms@224517040@22.45.17 (150700-490120723):47)
+        at kty.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):24)
+        at kud.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at kxc.b(:com.google.android.gms@224517040@22.45.17 (150700-490120723):3)
+        at kxc.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):7)
+        at ktf.hasFeatures(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at android.accounts.AbstractAccountAuthenticator$Transport.hasFeatures(AbstractAccountAuthenticator.java:311)
+        at android.accounts.IAccountAuthenticator$Stub.onTransact(IAccountAuthenticator.java:343)
+        at android.os.Binder.transact(Binder.java:1043)
+        at aqeg.onTransact(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at android.os.Binder.transact(Binder.java:1043)
+        at akpx.onTransact(:com.google.android.gms@224517040@22.45.17 (150700-490120723):17)
+        at android.os.Binder.execTransactInternal(Binder.java:1159)
+        at android.os.Binder.execTransact(Binder.java:1123)
+2022-12-04 02:02:35.551 9304-10336/? E/AuthPII: [GoogleAccountDataServiceImpl] getToken() -> BAD_AUTHENTICATION. App: com.google.android.gms, Service: oauth2:https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/account.capabilities https://www.googleapis.com/auth/account.service_flags
+    yvq: Long live credential not available.
+        at kwj.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):8)
+        at kwp.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):3)
+        at kuw.l(:com.google.android.gms@224517040@22.45.17 (150700-490120723):47)
+        at kty.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):24)
+        at kud.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at kxc.b(:com.google.android.gms@224517040@22.45.17 (150700-490120723):3)
+        at kxc.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):7)
+        at ktf.hasFeatures(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at android.accounts.AbstractAccountAuthenticator$Transport.hasFeatures(AbstractAccountAuthenticator.java:311)
+        at android.accounts.IAccountAuthenticator$Stub.onTransact(IAccountAuthenticator.java:343)
+        at android.os.Binder.transact(Binder.java:1043)
+        at aqeg.onTransact(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at android.os.Binder.transact(Binder.java:1043)
+        at akpx.onTransact(:com.google.android.gms@224517040@22.45.17 (150700-490120723):17)
+        at android.os.Binder.execTransactInternal(Binder.java:1159)
+        at android.os.Binder.execTransact(Binder.java:1123)
+2022-12-04 02:02:35.551 9304-10336/? E/AuthPII: Message is Long live credential not available.
+    yvq: Long live credential not available.
+        at kwj.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):8)
+        at kwp.c(:com.google.android.gms@224517040@22.45.17 (150700-490120723):3)
+        at kuw.l(:com.google.android.gms@224517040@22.45.17 (150700-490120723):47)
+        at kty.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):24)
+        at kud.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at kxc.b(:com.google.android.gms@224517040@22.45.17 (150700-490120723):3)
+        at kxc.a(:com.google.android.gms@224517040@22.45.17 (150700-490120723):7)
+        at ktf.hasFeatures(:com.google.android.gms@224517040@22.45.17 (150700-490120723):2)
+        at android.accounts.AbstractAccountAuthenticator$Transport.hasFeatures(AbstractAccountAuthenticator.java:311)
+        at android.accounts.IAccountAuthenticator$Stub.onTransact(IAccountAuthenticator.java:343)
+        at android.os.Binder.transact(Binder.java:1043)
+        at aqeg.onTransact(:com.google.android.gms@224517040@22.45.17 (150700-490120723):1)
+        at android.os.Binder.transact(Binder.java:1043)
+        at akpx.onTransact(:com.google.android.gms@224517040@22.45.17 (150700-490120723):17)
+        at android.os.Binder.execTransactInternal(Binder.java:1159)
+        at android.os.Binder.execTransact(Binder.java:1123)
+2022-12-04 02:02:46.726 474-474/? E/wifi_forwarder: qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:wififorward' service: Invalid argument
+2022-12-04 02:02:46.727 474-474/? E/wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+2022-12-04 02:02:58.439 9742-10562/? E/WakeLock: DG:service ** IS FORCE-RELEASED ON TIMEOUT **
+2022-12-04 02:03:31.600 9648-9648/? E/A: onError
+    com.google.android.apps.gsa.shared.speech.a.m: errorCode: 65561, engine: 2
+        at com.google.android.apps.gsa.staticplugins.cy.a.f.a(PG:3)
+        at com.google.android.apps.gsa.s3.o.gR(PG:1)
+        at com.google.cc.g.a.f.e(PG:2)
+        at com.google.android.apps.gsa.speech.k.a.g.d(PG:22)
+        at com.google.android.apps.gsa.speech.k.a.g.jQ(PG:6)
+        at com.google.android.apps.gsa.s3.p.c(PG:14)
+        at com.google.android.apps.gsa.s3.q.run(PG:1)
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+        at com.google.android.apps.gsa.shared.util.c.a.e.run(PG:2)
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1)
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at java.lang.Thread.run(Thread.java:923)
+        at com.google.android.apps.gsa.shared.util.c.a.l.run(PG:5)
+     Caused by: com.google.android.apps.gsa.shared.speech.a.o: errorCode: 65586, engine: 2
+        at com.google.android.apps.gsa.s3.o.gR(PG:1) 
+        at com.google.cc.g.a.f.e(PG:2) 
+        at com.google.android.apps.gsa.speech.k.a.g.d(PG:22) 
+        at com.google.android.apps.gsa.speech.k.a.g.jQ(PG:6) 
+        at com.google.android.apps.gsa.s3.p.c(PG:14) 
+        at com.google.android.apps.gsa.s3.q.run(PG:1) 
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462) 
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266) 
+        at com.google.android.apps.gsa.shared.util.c.a.e.run(PG:2) 
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1) 
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1) 
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167) 
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641) 
+        at java.lang.Thread.run(Thread.java:923) 
+        at com.google.android.apps.gsa.shared.util.c.a.l.run(PG:5) 
+     Caused by: com.google.android.apps.gsa.shared.speech.a.k: errorCode: 401, engine: 2
+        at com.google.android.apps.gsa.assistant.shared.n.h.a(PG:5)
+        at com.google.android.apps.gsa.s3.producers.j.hj(PG:2)
+        at com.google.android.apps.gsa.speech.k.a.g.d(PG:16)
+        at com.google.android.apps.gsa.speech.k.a.g.jQ(PG:6) 
+        at com.google.android.apps.gsa.s3.p.c(PG:14) 
+        at com.google.android.apps.gsa.s3.q.run(PG:1) 
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462) 
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266) 
+        at com.google.android.apps.gsa.shared.util.c.a.e.run(PG:2) 
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1) 
+        at com.google.android.apps.gsa.shared.util.c.a.bi.run(PG:1) 
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167) 
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641) 
+        at java.lang.Thread.run(Thread.java:923) 
+        at com.google.android.apps.gsa.shared.util.c.a.l.run(PG:5) 
+2022-12-04 02:03:34.703 468-468/? E/netmgr: qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:network' service: Invalid argument
+2022-12-04 02:03:34.703 468-468/? E/netmgr: Failed to open QEMU pipe 'qemud:network': Invalid argument
+2022-12-04 02:03:46.754 474-474/? E/wifi_forwarder: qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:wififorward' service: Invalid argument
+2022-12-04 02:03:46.754 474-474/? E/wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
+2022-12-04 02:04:34.707 468-468/? E/netmgr: qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:network' service: Invalid argument
+2022-12-04 02:04:34.707 468-468/? E/netmgr: Failed to open QEMU pipe 'qemud:network': Invalid argument
+2022-12-04 02:04:45.566 9940-13322/? E/ailw: RuntimeException while executing runnable aioi{aauk@69c2f95} with executor MoreExecutors.directExecutor()
+    java.lang.NullPointerException: Attempt to read from field 'java.lang.String aagb.b' on a null object reference
+        at aauk.a(PG:4)
+        at aioi.run(PG:8)
+        at aino.execute(PG:3)
+        at ailw.b(PG:77)
+        at ailw.a(PG:29)
+        at aiol.a(PG:2)
+        at aaum.a(PG:18)
+        at aajw.c(PG:129)
+        at aajw.a(PG:121)
+        at aajw.b(PG:93)
+        at aavc.a(Unknown Source:1)
+        at aipw.b(PG:7)
+        at aiox.run(PG:12)
+        at aipy.run(PG:12)
+        at aeua.run(PG:2)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at aesr.run(Unknown Source:4)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:04:45.566 9940-13322/? E/ailw: RuntimeException while executing runnable aioi{aauk@4d53c9b} with executor MoreExecutors.directExecutor()
+    java.lang.NullPointerException: Attempt to read from field 'java.lang.String aagb.b' on a null object reference
+        at aauk.a(PG:4)
+        at aioi.run(PG:8)
+        at aino.execute(PG:3)
+        at ailw.b(PG:77)
+        at ailw.a(PG:29)
+        at aiol.a(PG:2)
+        at aaum.a(PG:18)
+        at aajw.c(PG:129)
+        at aajw.a(PG:121)
+        at aajw.b(PG:93)
+        at aavc.a(Unknown Source:1)
+        at aipw.b(PG:7)
+        at aiox.run(PG:12)
+        at aipy.run(PG:12)
+        at aeua.run(PG:2)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at aesr.run(Unknown Source:4)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:04:45.567 9940-13322/? E/ailw: RuntimeException while executing runnable aioi{aauk@5dd3011} with executor MoreExecutors.directExecutor()
+    java.lang.NullPointerException: Attempt to read from field 'java.lang.String aagb.b' on a null object reference
+        at aauk.a(PG:4)
+        at aioi.run(PG:8)
+        at aino.execute(PG:3)
+        at ailw.b(PG:77)
+        at ailw.a(PG:29)
+        at aiol.a(PG:2)
+        at aaum.a(PG:18)
+        at aajw.c(PG:129)
+        at aajw.a(PG:121)
+        at aajw.b(PG:93)
+        at aavc.a(Unknown Source:1)
+        at aipw.b(PG:7)
+        at aiox.run(PG:12)
+        at aipy.run(PG:12)
+        at aeua.run(PG:2)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at aesr.run(Unknown Source:4)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:04:45.567 9940-13322/? E/ailw: RuntimeException while executing runnable aioi{aauk@7410777} with executor MoreExecutors.directExecutor()
+    java.lang.NullPointerException: Attempt to read from field 'java.lang.String aagb.b' on a null object reference
+        at aauk.a(PG:4)
+        at aioi.run(PG:8)
+        at aino.execute(PG:3)
+        at ailw.b(PG:77)
+        at ailw.a(PG:29)
+        at aiol.a(PG:2)
+        at aaum.a(PG:18)
+        at aajw.c(PG:129)
+        at aajw.a(PG:121)
+        at aajw.b(PG:93)
+        at aavc.a(Unknown Source:1)
+        at aipw.b(PG:7)
+        at aiox.run(PG:12)
+        at aipy.run(PG:12)
+        at aeua.run(PG:2)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at aesr.run(Unknown Source:4)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:04:45.967 9940-13323/? E/ailw: RuntimeException while executing runnable aioi{aauk@b593f81} with executor MoreExecutors.directExecutor()
+    java.lang.NullPointerException: Attempt to read from field 'java.lang.String aagb.b' on a null object reference
+        at aauk.a(PG:4)
+        at aioi.run(PG:8)
+        at aino.execute(PG:3)
+        at ailw.b(PG:77)
+        at ailw.a(PG:29)
+        at aiol.a(PG:2)
+        at aaum.a(PG:18)
+        at aajw.c(PG:129)
+        at aaiy.a(Unknown Source:1)
+        at aily.a(PG:3)
+        at aima.run(PG:23)
+        at aipd.run(PG:2)
+        at aipo.run(PG:6)
+        at aeua.run(PG:2)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at aesr.run(Unknown Source:4)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:04:45.968 9940-13323/? E/ailw: RuntimeException while executing runnable aioi{aauk@d4cbc67} with executor MoreExecutors.directExecutor()
+    java.lang.NullPointerException: Attempt to read from field 'java.lang.String aagb.b' on a null object reference
+        at aauk.a(PG:4)
+        at aioi.run(PG:8)
+        at aino.execute(PG:3)
+        at ailw.b(PG:77)
+        at ailw.a(PG:29)
+        at aiol.a(PG:2)
+        at aaum.a(PG:18)
+        at aajw.c(PG:129)
+        at aaiy.a(Unknown Source:1)
+        at aily.a(PG:3)
+        at aima.run(PG:23)
+        at aipd.run(PG:2)
+        at aipo.run(PG:6)
+        at aeua.run(PG:2)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at aesr.run(Unknown Source:4)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:04:45.968 9940-13323/? E/ailw: RuntimeException while executing runnable aioi{aauk@8d952bd} with executor MoreExecutors.directExecutor()
+    java.lang.NullPointerException: Attempt to read from field 'java.lang.String aagb.b' on a null object reference
+        at aauk.a(PG:4)
+        at aioi.run(PG:8)
+        at aino.execute(PG:3)
+        at ailw.b(PG:77)
+        at ailw.a(PG:29)
+        at aiol.a(PG:2)
+        at aaum.a(PG:18)
+        at aajw.c(PG:129)
+        at aaiy.a(Unknown Source:1)
+        at aily.a(PG:3)
+        at aima.run(PG:23)
+        at aipd.run(PG:2)
+        at aipo.run(PG:6)
+        at aeua.run(PG:2)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at aesr.run(Unknown Source:4)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:04:45.969 9940-13323/? E/ailw: RuntimeException while executing runnable aioi{aauk@65eb803} with executor MoreExecutors.directExecutor()
+    java.lang.NullPointerException: Attempt to read from field 'java.lang.String aagb.b' on a null object reference
+        at aauk.a(PG:4)
+        at aioi.run(PG:8)
+        at aino.execute(PG:3)
+        at ailw.b(PG:77)
+        at ailw.a(PG:29)
+        at aiol.a(PG:2)
+        at aaum.a(PG:18)
+        at aajw.c(PG:129)
+        at aaiy.a(Unknown Source:1)
+        at aily.a(PG:3)
+        at aima.run(PG:23)
+        at aipd.run(PG:2)
+        at aipo.run(PG:6)
+        at aeua.run(PG:2)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+        at aesr.run(Unknown Source:4)
+        at java.lang.Thread.run(Thread.java:923)
+2022-12-04 02:04:46.791 474-474/? E/wifi_forwarder: qemu_pipe_open_ns:62: Could not connect to the 'pipe:qemud:wififorward' service: Invalid argument
+2022-12-04 02:04:46.791 474-474/? E/wifi_forwarder: RemoteConnection failed to initialize: RemoteConnection failed to open pipe
