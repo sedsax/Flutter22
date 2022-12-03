@@ -7,6 +7,9 @@ Bu yapıyı ilk kez tasarladığım için geçen haftaki WordlyWord projesi üze
 İkinci bir sorun da, kötü kodluyor oluşum. Yani kodum hiç pratik ve kullanışlı değil. Tek tek ilerlediğim için bir anda bir buton için metod oluşturmak aklıma gelmiyor.
 Hepsini tek tek oluşturup düzenledim. Bu da kodu çok karmaşıklaştırdı tabii. Tasarım tamamen bittikten sonra düzenlemeye çalışacağım. 
 
+Şimdi oluşturduğum bu kısmı orijinal WordlyWord projeme entegre edeyim. Fakat burdaki gibi buton kullanmayacağım. AppBar' a iconlar eklemem gerekiyor: yardım, istatistik
+ve ayarlar iconu. 
+
 /*
 
 showGeneralDialog(
