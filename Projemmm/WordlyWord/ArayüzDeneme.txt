@@ -1,0 +1,24 @@
+Arayüz tasarımı yaparken çok zorlanıyorum, araştırıp buluyorum ama çok da zaman kaybediyorum. Ana ekrandaki yardım butonuna tıklanınca fragment gibi kutu şeklinde
+açılan sayfaya oyunun kuralını yazmam gerekiyordu. Java' da fragment olarak bildiğim bu yapıyı Flutter' da nasıl yapacağımı ilk başta bulamadım. Kullanılan yapının
+adını da bilmiyordum. Arkadaşlarım AlertDiolog yapısını kullanabileceğimi söyledi. Araştırdım, uyarı mesajı için ve benim istediğim daha çok başka bir sayfa gibiydi.
+AlertDiolog' a bakarken flutter full-screen diye bir yapı ile karşılaştım. Ve onu kullandım. Çok farklı widget var, hepsinin de farklı özellikleri var. 
+Bu yapıyı ilk kez tasarladığım için geçen haftaki WordlyWord projesi üzerinde yapmadım. Eski ve boş bir Flutter projemi kullandım. 
+
+İkinci bir sorun da, kötü kodluyor oluşum. Yani kodum hiç pratik ve kullanışlı değil. Tek tek ilerlediğim için bir anda bir buton için metod oluşturmak aklıma gelmiyor.
+Hepsini tek tek oluşturup düzenledim. Bu da kodu çok karmaşıklaştırdı tabii. Tasarım tamamen bittikten sonra düzenlemeye çalışacağım. 
+
+/*
+
+showGeneralDialog(
+                  context: context,
+                  barrierColor: Colors.black54,
+                  transitionDuration: const Duration(milliseconds: 200),
+                  barrierDismissible: true,
+                  barrierLabel: MaterialLocalizations.of(context)
+                      .modalBarrierDismissLabel,
+                  pageBuilder: (BuildContext buildContext, Animation animation,
+                          Animation secondaryAnimation) =>
+                      Center()
+                      )
+
+*/
