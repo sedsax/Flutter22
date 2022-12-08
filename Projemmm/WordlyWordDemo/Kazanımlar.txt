@@ -1,0 +1,40 @@
+-Build Wordle with Flutter-
+
+// https://www.youtube.com/watch?v=4HPhtnJ-x3g&list=PLRz1ICq5mNx8tYouCq1Qd9bRjnYxoCuWH&index=5&ab_channel=FlutterLand
+
+UI Layout
+GridView
+State Management
+Light & Dark Themes
+Animations
+Data Storage
+Charts
+Pop Up Messages
+More...
+-------------------------------------
+
+Material Design:  Google's user interface design system (access widgets implementing Material Design)
+
+Flex Property: Divide the available space proportionally among multiple children
+
+GridView: Scrollable 2-D array of widgets
+  gridDelegate, itemBuilder, crossAxisCount
+  
+Enum: A fixed number of constant values
+
+Map Class: A collection of key-value pairs
+Map Function: Loops over a collection of values and can return a list of widgets
+
+MediaQuery.of(context).size: Obtain the size of the device' s screen
+
+Ternary Operator: (condition) ? return if true : resturns if false
+
+InkWell: A material widget that creates a splash effect when tapped (The ink splashes aren't visible)
+
+ClipRRect: Can clip its child to child to create rounded corners
+
+Provider package
+
+
+
+  
